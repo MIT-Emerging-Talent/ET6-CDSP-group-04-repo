@@ -1,8 +1,8 @@
 # 📝 Milestone 0 & 1 – Meeting 2: Documentation & Planning Catch-Up  
 
 **Date:** 09/06/2025  
-**Time:** 10:30 PM - 12:00 AM  
-**Attendees:** Nelson, Khadija, Yevheniia, Olubusayo
+**Time:** 10:30 AM - 12:00 PM EST  
+**Attendees:** Nelson Fodjo, ija al Ramlawi, Yevheniia Rudenko, Olubusayo
 
 ---
 

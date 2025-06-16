@@ -1,7 +1,7 @@
 # 📝 Milestone 0 – Meeting 1: Group Norms & GitHub Setup
 
 **Date:** 31/05/2025  
-**Time:** 3:30 PM – 5:00 PM  
+**Time:** 3:30 PM – 5:00 PM EST  
 **Attendees:** Nelson Fodjo, Olubusayo Solola, Shaima Mohamed
 
 ---
