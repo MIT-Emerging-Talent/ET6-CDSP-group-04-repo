@@ -8,10 +8,11 @@ All files are stored in `/2_data_preparation/cleaned_data/`.
 
 ---
 
-## 🔍 Sub-Questions & Team Assignments 
+## 🔍 Sub-Questions & Team Assignments
+
 ### (Please change Sub-Question and Filename with the question assigned to you!!!)
 
-| Sub-Question / Outcome Metric                          | Filename                         | Assigned Member            | Source                                       |
+| Sub-Question / Outcome Metric                          | Filename                         | Assigned Member   | Source|
 |--------------------------------------------------------|----------------------------------|----------------------------|----------------------------------------------|
 | % of job listings requiring no degree                  | `job_titles_no_degree.csv`       | Nelson Fodjo Kamdoum       | [Indeed API](link) or scraped CSV            |
 | Bootcamp employment rate (within 6-12 months)          | `bootcamp_employment_rates.csv`  | Khadija al Ramlawi         | [CourseReport](link) or bootcamp survey data |
@@ -27,6 +28,7 @@ All files are stored in `/2_data_preparation/cleaned_data/`.
 ## 🧼 Cleaning Methodologies
 
 Each notebook in `/notebooks/` includes:
+
 - Null handling
 - Column renaming & normalization
 - Filtering by country and age (18–25)
@@ -35,7 +37,7 @@ Each notebook in `/notebooks/` includes:
 ---
 
 ## 🧩 Notes & Limitations
+
 - Some sources include global data — filtered for U.S. only
 - Time-based fields were standardized to `YYYY-MM-DD`
 - Survey-based data may include self-reporting bias
-
