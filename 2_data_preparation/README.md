@@ -14,8 +14,7 @@ Our goal is to collect, clean, and document datasets related to our group’s re
 
 ## 🧠 Modeling the Domain (Non-Technical Explanation)
 
-To study this complex real-world issue, we broke it down into measurable
-outcome metrics such as:
+To study this complex real-world issue, we broke it down into measurable outcome metrics such as:
 
 - Employment rate after bootcamp or online training
 - Average salary after completing non-traditional programs
