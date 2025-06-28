@@ -37,13 +37,20 @@ and stored in a consistent format (CSV) to support later analysis.
 ## 📁 Folder Structure
 
 ```text
-2_data_preparation/
+ET6-CDSP-GROUP-04-REPO/
 │
-├── raw_data/                    ← Unprocessed, original datasets
-├── cleaned_data/                ← Final cleaned CSVs used for analysis
-├── notebooks/                   ← Individual cleaning notebooks (1 per member)
-├── data_documentation.md        ← Overview of datasets, team assignments, and sources
-└── README.md                    ← This document
+├── data/
+│   ├── raw/             # Original unmodified datasets
+│   ├── cleaned/         # Final cleaned datasets used for exploration/analysis
+│   └── processed/       # Optional: model-ready transformed data (if applicable)
+│
+├── notebooks/
+│   ├── cleaning/        # Notebooks used in Milestone 2 for data cleaning
+│   ├── exploration/     # EDA notebooks for Milestone 3
+│   └── analysis/        # Final analysis notebooks for Milestone 4
+│
+├── 2_data_preparation/  # This README and supporting milestone documentation
+├── data_documentation.md                   ← This document
 ```
 
 ---
