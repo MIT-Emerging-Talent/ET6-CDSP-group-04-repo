@@ -14,8 +14,8 @@ All files are stored in `/2_data_preparation/cleaned_data/`.
 
 | Sub-Question / Outcome Metric                          | Filename                         | Assigned Member   | Source|
 |--------------------------------------------------------|----------------------------------|----------------------------|----------------------------------------------|
-| % of job listings requiring no degree                  | `job_titles_no_degree.csv`       | Nelson Fodjo Kamdoum       | [Indeed API](link) or scraped CSV            |
-| Bootcamp employment rate (within 6-12 months)          | `bootcamp_employment_rates.csv`  | Khadija al Ramlawi | [CourseReport](link) or bootcamp survey data|
+| % of job listings requiring no degree | `job_titles_no_degree.csv`| Nelson Fodjo Kamdoum| [Indeed API](link)|
+| Bootcamp employment rate (within 6-12 months)| `bootcamp_employment_rates.csv`| Khadija al Ramlawi | [CourseReport](link)|
 | Average salary after online training                   | `average_salary_post_training.csv`| Sara Şahin        | [PayScale or Glassdoor](link)|
 | Median time to employment after training               | `time_to_employment.csv`         | Shayma Mohamed             | [LinkedIn reports](link)                     |
 | % receiving employer sponsorship/apprenticeships       | `employer_sponsorships.csv`      | Olubusayo Solola           | [Workforce Dev Study](link)                  |
