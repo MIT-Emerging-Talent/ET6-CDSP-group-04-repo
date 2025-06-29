@@ -161,8 +161,51 @@ education in enabling their employment outcomes?**
 
 ### TEAM DATA SOURCES 4
 
-- *(To be added)*
+- Bootcamp Certification vs. Degree: Why Accreditation Matters
+  
+> **What the article is about**:
+>
+>The article compares bootcamp certifications and academic degrees, explaining why accreditation matters when choosing an
+ educational path. It discusses the pros and cons of both options and highlights how accreditation can impact career opportunities.
+>
+> **What metrics are included:**
+>
+> - EdTech market growth forecasts (e.g., projected market size by 2025)
+> - Graduate employment rates (e.g., percentage of bootcamp graduates hired)
+> - Average salaries for graduates of various programs
+These metrics are used to compare the effectiveness and demand for different educational pathways.
+>
+> Note: Contacted the author of the paper, waiting for a reply , the information about data is might be updated in the future.
+>
+> Link: 2_data_preparation/raw_data/Bootcamp Certification vs. Degree: Why Accreditation Matters?.pdf
 
+- 2020 Coding Bootcamp Alumni Outcomes & Demographics Report
+  
+> In the context of the 2020 Course Report on coding bootcamp graduates, “healing” refers to the economic and
+> professional recovery that graduates experience after completing a bootcamp.
+> **This “healing” is based on:**
+>
+> - Gaining new, in-demand tech skills
+> - Significant salary increases (average +56%)
+> - High job placement rates (79% work in-field)
+> - Opportunities for career changers and those affected by COVID-19
+> - Flexible, often online learning formats
+Improved job satisfaction and career prospects
+>
+> **Internet pages:**
+>
+> - [2020 Coding Bootcamp Alumni Outcomes & Demographics Report](https://www.coursereport.com/reports/2020-coding-bootcamp-alumni-outcomes-demographics-report-during-covid-19?utm_source=chatgpt.com)
+> - [2019 Coding Bootcamp Alumni Outcomes & Demographics Report](<https://www.coursereport.com/reports/coding-bootcamp-job-placement-report-2019>)
+>
+> **CSV files:**
+>
+> - Educational Attainment vs Post Bootcamp, raw_data/Table 17_Educational Attainment_vs_Post_Bootcamp_Success.csv
+> - Race_Ethnicity_and_Post_Bootcamp, raw_data/Table 18_Race_Ethnicity_and_Post_Bootcamp_Success.csv
+> - Gender and Post Bootcamp, raw_data/Table 19_Gender_and_Post_Bootcamp_Success.csv
+> - Programming Language and Post-Bootcamp, raw_data/Table 20_Programming_Language_and_Post-Bootcamp.csv
+> - Location and Post Bootcamp,  raw_data/Table 21_Location_and_Post_Bootcamp_Success.csv
+> - Pre-bootcamp Income vs Post_Bootcamp, raw_data/Table_16_Pre_boot_camp_Income vs_Post_Bootcam.csv
+>
 ---
 
 ## 5. Employer Perceptions and Success Factors (Nelson + Simi)
