@@ -1,14 +1,20 @@
 
-# 📊 Data Preparation – Milestone 2
+# 📊 Milestone 2 – Data Collection & Preparation
 
-This folder contains all resources for **Milestone 2: Data Collection** for the project _“Career Pathways into IT for
-Displaced Youth (U.S.)”_.
+This folder contains all Milestone 2 work for the project:  
+**“Career Pathways into IT for Displaced Youth in the U.S. (2025)”**
 
-Our goal is to collect, clean, and document datasets related to our group’s research question:
+---
 
-> _What are the most accessible and employer-relevant career pathways into the IT sector for young displaced individuals
-> without prior tech backgrounds in the U.S., and how do alternative education models compare to formal higher education
-> in enabling their employment outcomes?_
+## 🎯 Project Research Question
+
+> What are the most accessible and employer-relevant career pathways into the IT sector
+> for displaced youth in the U.S. with no prior tech background, and how do alternative
+> education models compare to formal degrees in enabling successful employment?
+
+Our team explored this problem by breaking it into measurable sub-questions, each focused on different
+aspects of accessibility, training options, barriers, and employment outcomes. The goal is to collect, clean,
+and document relevant datasets that can support later analysis of these pathways.
 
 ---
 
@@ -34,23 +40,107 @@ and stored in a consistent format (CSV) to support later analysis.
 
 ---
 
+## 👥 Team Contributions (Milestone 2 Notebooks & Datasets)
+
+**Khadija al Ramlawi**  
+_Subquestion Focus:_ Barriers and Demographics  
+_Contribution Summary:_  
+Investigated cost, documentation, and language barriers to IT training for displaced  
+youth. Collected data on population, unemployment, and education status from sources  
+like UNHCR and ACS.
+
+---
+
+**Nelson Fodjo Kamdoum**  
+_Subquestion Focus:_ Employer Perceptions & Success Factors  
+_Contribution Summary:_  
+Analyzed employer preferences for training types and success factors (e.g.,  
+internships, mentorship) that affect displaced youth employment.
+
+---
+
+**Olubusayo Solola (Simi)**  
+_Subquestion Focus:_ Employer Perceptions & Success Factors  
+_Contribution Summary:_  
+Collaborated with Nelson to analyze employer perspectives and outcomes by  
+education type.
+
+---
+
+**Sara Şahin**  
+_Subquestion Focus:_ Entry-Level IT Opportunities  
+_Contribution Summary:_  
+Explored accessible job roles for newcomers with no tech background. Focused on job  
+posting requirements and entry-level salary benchmarks.
+
+---
+
+**Shayma Mohamed**  
+_Subquestion Focus:_ Entry-Level IT Opportunities  
+_Contribution Summary:_  
+Collaborated with Sara to define the most common entry-level tech positions and  
+what credentials they require.
+
+---
+
+**Yevheniia Rudenko**  
+_Subquestion Focus:_ Employment Outcomes by Pathway  
+_Contribution Summary:_  
+Analyzed employment and salary outcomes based on training type (bootcamp vs.  
+college). Focused on post-training job timing and demographic variation.
+
+---
+
+**Yuri Spizhovyi**  
+_Subquestion Focus:_ Education Models & Accessibility  
+_Contribution Summary:_  
+Collected and cleaned a dataset of IT training programs (bootcamps, colleges,  
+support orgs). Normalized cost, length, and accessibility into structured data using  
+`data_cleaning_us_it_programs.ipynb`. Outputs: `raw_us_it_programs.csv`,  
+`cleaned_us_it_programs.csv`.
+
+> 📌 All cleaned datasets are located in `/1_datasets/cleaned_data/`. Cleaning notebooks are stored in `/2_data_preparation/`.
+
+---
+
+## 🧾 Dataset Reproducibility & Structure
+
+- All notebooks are designed to read raw data from `/1_datasets/raw_data/`
+- Cleaned `.csv` outputs are saved in `/1_datasets/cleaned_data/`
+- No raw file is overwritten. All steps are traceable and reproducible.
+
+---
+
+## 🧠 How We Modeled the Domain (Non-Technical Overview)
+
+We modeled the domain by identifying several key components of an IT career pathway:
+
+- Access to IT training (availability, cost, eligibility)
+- Demographic barriers (e.g., English, legal status)
+- Types of education models (online, bootcamps, colleges)
+- Job market entry points (entry-level roles, salaries)
+- Employer perceptions of non-traditional credentials
+- Employment outcomes (time to employment, salaries, by pathway)
+
+Each subquestion was assigned to a team member. They collected datasets, created cleaning notebooks, and produced
+standardized `.csv` files for reuse and analysis.
+
 ## 📁 Folder Structure
 
 ```text
 ET6-CDSP-GROUP-04-REPO/
 │
-├── data/
-│   ├── raw/             # Original unmodified datasets
-│   ├── cleaned/         # Final cleaned datasets used for exploration/analysis
-│   └── processed/       # Optional: model-ready transformed data (if applicable)
+├── 1_datasets/
+│   ├── raw_data/           # Original source files (not modified)
+│   ├── cleaned_data/       # Final cleaned datasets
+│   └── guide.md            # Guide for dataset use
 │
-├── notebooks/
-│   ├── cleaning/        # Notebooks used in Milestone 2 for data cleaning
-│   ├── exploration/     # EDA notebooks for Milestone 3
-│   └── analysis/        # Final analysis notebooks for Milestone 4
-│
-├── 2_data_preparation/  # This README and supporting milestone documentation
-├── data_documentation.md                   ← This document
+├── 2_data_preparation/
+│   ├── README.md           # ← This file
+│   ├── guide.md            # How to clean + prepare data
+│   ├── data_documentation.md  # Short summaries of each dataset
+│   ├── draft_data_description.md # Notes and scratch space
+│   └── *.ipynb             # One notebook per team member
 ```
 
 ---
