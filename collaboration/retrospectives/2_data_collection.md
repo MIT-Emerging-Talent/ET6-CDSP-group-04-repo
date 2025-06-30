@@ -130,6 +130,3 @@ initially expected.
 
 - Built confidence using public data portals (IPUMS, MPI, ORR).
 - Improved data evaluation skills and identified new data leads.
-
-
-
