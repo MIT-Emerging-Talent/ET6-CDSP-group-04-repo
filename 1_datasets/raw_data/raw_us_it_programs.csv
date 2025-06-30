@@ -1,0 +1,151 @@
+Provider,Program,Focus Area,Format,Length,Cost (USD),Credential Type,Completion Rate (if known),Entry-Level Friendly,Accessible (Online/Free),Source Link,SourceType
+MIT,BS in Computer Science,Software Engineering,In-person,4 years,53000/year,Bachelor's Degree,80%,No,No,https://www.mit.edu,University
+Stanford University,MS in Data Science,Data Science,In-person,2 years,55000/year,Master's Degree,85%,No,No,https://www.stanford.edu,University
+UC Berkeley,BS in Electrical Engineering & Computer Sciences,Computer Science,In-person,4 years,43000/year,Bachelor's Degree,78%,No,No,https://www.berkeley.edu,University
+Harvard Extension School,Professional Certificate in Web Dev,Web Development,Hybrid,1 year,11700,Certificate,75%,Yes,Partial,https://extension.harvard.edu,University
+Carnegie Mellon,MS in AI & Innovation,Artificial Intelligence,In-person,2 years,56000/year,Master's Degree,87%,No,No,https://www.cmu.edu,University
+Columbia University,MS in Computer Science,Computer Science,In-person,2 years,60000/year,Master's Degree,82%,No,No,https://www.columbia.edu,University
+Georgia Tech,Online MS in Computer Science,Computer Science,Online,2–3 years,7000 total,Master's Degree,85%,Yes,Yes,https://www.omscs.gatech.edu,University
+University of Washington,BS in Informatics,Data/IT,In-person,4 years,40000/year,Bachelor's Degree,76%,No,No,https://www.washington.edu,University
+University of Illinois Urbana-Champaign,MCS in Data Science,Data Science,Online,2 years,21000 total,Master's Degree,80%,Yes,Yes,https://cs.illinois.edu,University
+Arizona State University,BS in Software Engineering,Software Dev,Hybrid,4 years,29000/year,Bachelor's Degree,72%,Yes,Partial,https://www.asu.edu,University
+CUNY (City Univ. of NY),AAS in Computer Info Systems,IT/CS,In-person,2 years,6300/year,Associate Degree,70%,Yes,Partial,https://www.cuny.edu,University
+Santa Monica College,AS in Computer Programming,Programming,In-person,2 years,11000/year,Associate Degree,65%,Yes,Partial,https://www.smc.edu,University
+Austin Community College,IT User Support Cert,IT Support,In-person,1 year,3500,Certificate,75%,Yes,Partial,https://www.austincc.edu,University
+Los Angeles Valley College,Comp. Science Cert,General CS,In-person,1 year,4200,Certificate,70%,Yes,Partial,https://www.lavc.edu,University
+Northeastern University,Align MSCS,CS for Non-Majors,Hybrid,2.5 years,52000,Master's Degree,80%,Yes,Partial,https://www.northeastern.edu,University
+University of Texas at Austin,BS in Computer Science,Computer Science,In-person,4 years,36000/year,Bachelor's Degree,78%,No,No,https://www.utexas.edu,University
+University of Florida,Online BS in CS,Computer Science,Online,4 years,15500/year,Bachelor's Degree,70%,Yes,Yes,https://www.ufl.edu,University
+University of Michigan,BS in Info,Information Science,In-person,4 years,49000/year,Bachelor's Degree,77%,No,No,https://www.umich.edu,University
+Drexel University,BS in Computing,General IT,In-person,4 years,50000/year,Bachelor's Degree,75%,No,No,https://www.drexel.edu,University
+University of Maryland,MS in Data Science,Data Science,Online,2 years,25000,Master's Degree,80%,Yes,Yes,https://www.umd.edu,University
+MIT,BS in Computer Science,Software Engineering,In-person,4 years,53000/year,Bachelor's Degree,80%,No,No,https://www.mit.edu,University
+Stanford University,MS in Data Science,Data Science,In-person,2 years,55000/year,Master's Degree,85%,No,No,https://www.stanford.edu,University
+UC Berkeley,BS in Electrical Engineering & Computer Sciences,Computer Science,In-person,4 years,43000/year,Bachelor's Degree,78%,No,No,https://www.berkeley.edu,University
+Harvard Extension School,Professional Certificate in Web Dev,Web Development,Hybrid,1 year,11700,Certificate,75%,Yes,Partial,https://extension.harvard.edu,University
+Carnegie Mellon,MS in AI & Innovation,Artificial Intelligence,In-person,2 years,56000/year,Master's Degree,87%,No,No,https://www.cmu.edu,University
+Columbia University,MS in Computer Science,Computer Science,In-person,2 years,60000/year,Master's Degree,82%,No,No,https://www.columbia.edu,University
+Georgia Tech,Online MS in Computer Science,Computer Science,Online,2–3 years,7000 total,Master's Degree,85%,Yes,Yes,https://www.omscs.gatech.edu,University
+University of Washington,BS in Informatics,Data/IT,In-person,4 years,40000/year,Bachelor's Degree,76%,No,No,https://www.washington.edu,University
+University of Illinois Urbana-Champaign,MCS in Data Science,Data Science,Online,2 years,21000 total,Master's Degree,80%,Yes,Yes,https://cs.illinois.edu,University
+Arizona State University,BS in Software Engineering,Software Dev,Hybrid,4 years,29000/year,Bachelor's Degree,72%,Yes,Partial,https://www.asu.edu,University
+CUNY (City Univ. of NY),AAS in Computer Info Systems,IT/CS,In-person,2 years,6300/year,Associate Degree,70%,Yes,Partial,https://www.cuny.edu,University
+Santa Monica College,AS in Computer Programming,Programming,In-person,2 years,11000/year,Associate Degree,65%,Yes,Partial,https://www.smc.edu,University
+Austin Community College,IT User Support Cert,IT Support,In-person,1 year,3500,Certificate,75%,Yes,Partial,https://www.austincc.edu,University
+Los Angeles Valley College,Comp. Science Cert,General CS,In-person,1 year,4200,Certificate,70%,Yes,Partial,https://www.lavc.edu,University
+Northeastern University,Align MSCS,CS for Non-Majors,Hybrid,2.5 years,52000,Master's Degree,80%,Yes,Partial,https://www.northeastern.edu,University
+University of Texas at Austin,BS in Computer Science,Computer Science,In-person,4 years,36000/year,Bachelor's Degree,78%,No,No,https://www.utexas.edu,University
+University of Florida,Online BS in CS,Computer Science,Online,4 years,15500/year,Bachelor's Degree,70%,Yes,Yes,https://www.ufl.edu,University
+University of Michigan,BS in Info,Information Science,In-person,4 years,49000/year,Bachelor's Degree,77%,No,No,https://www.umich.edu,University
+Drexel University,BS in Computing,General IT,In-person,4 years,50000/year,Bachelor's Degree,75%,No,No,https://www.drexel.edu,University
+University of Maryland,MS in Data Science,Data Science,Online,2 years,25000,Master's Degree,80%,Yes,Yes,https://www.umd.edu,University
+MIT,BS in Computer Science,Software Engineering,In-person,4 years,53000/year,Bachelor's Degree,80%,No,No,https://www.mit.edu,University
+Stanford University,MS in Data Science,Data Science,In-person,2 years,55000/year,Master's Degree,85%,No,No,https://www.stanford.edu,University
+UC Berkeley,BS in Electrical Engineering & Computer Sciences,Computer Science,In-person,4 years,43000/year,Bachelor's Degree,78%,No,No,https://www.berkeley.edu,University
+Harvard Extension School,Professional Certificate in Web Dev,Web Development,Hybrid,1 year,11700,Certificate,75%,Yes,Partial,https://extension.harvard.edu,University
+Carnegie Mellon,MS in AI & Innovation,Artificial Intelligence,In-person,2 years,56000/year,Master's Degree,87%,No,No,https://www.cmu.edu,University
+Columbia University,MS in Computer Science,Computer Science,In-person,2 years,60000/year,Master's Degree,82%,No,No,https://www.columbia.edu,University
+Georgia Tech,Online MS in Computer Science,Computer Science,Online,2–3 years,7000 total,Master's Degree,85%,Yes,Yes,https://www.omscs.gatech.edu,University
+University of Washington,BS in Informatics,Data/IT,In-person,4 years,40000/year,Bachelor's Degree,76%,No,No,https://www.washington.edu,University
+University of Illinois Urbana-Champaign,MCS in Data Science,Data Science,Online,2 years,21000 total,Master's Degree,80%,Yes,Yes,https://cs.illinois.edu,University
+Arizona State University,BS in Software Engineering,Software Dev,Hybrid,4 years,29000/year,Bachelor's Degree,72%,Yes,Partial,https://www.asu.edu,University
+Coursera + Google,Google IT Support Certificate,IT Support,Online,6 months,Free–$49/month+,Certificate,60%,Yes,Yes,https://www.coursera.org/professional-certificates/google-it-support,OnlineCourse
+edX + MIT,Introduction to Computer Science (CS50),Computer Science,Online,12 weeks,Free (paid cert optional),Certificate,75%,Yes,Yes,https://cs50.harvard.edu,OnlineCourse
+Coursera + IBM,Data Science Professional Certificate,Data Science,Online,10 months,$39/month+,Certificate,55%,Yes,Yes,https://www.coursera.org/professional-certificates/ibm-data-science,OnlineCourse
+Udacity,AI Programming with Python,AI & Programming,Online,3 months,$399/month+,Nanodegree,50%,Yes,Yes,https://www.udacity.com/course/ai-programming-python-nanodegree--nd089,OnlineCourse
+freeCodeCamp,Responsive Web Design,Web Dev,Online,3 months,Free,Certificate,70%,Yes,Yes,https://www.freecodecamp.org,OnlineCourse
+LinkedIn Learning,Become a Software Developer,Software Dev,Online,4 months,$39/month+,Certificate,60%,Yes,Yes,https://www.linkedin.com/learning/paths/become-a-software-developer,OnlineCourse
+FutureLearn + AWS,AWS Cloud Practitioner Essentials,Cloud Computing,Online,6 weeks,Free,Certificate,n/a,Yes,Yes,https://www.futurelearn.com/courses/aws-cloud-practitioner-essentials,OnlineCourse
+Codecademy,Full-Stack Engineer Career Path,Software Dev,Online,6–12 months,$240/year+,Certificate,65%,Yes,Yes,https://www.codecademy.com/learn/full-stack-engineer-career-path,OnlineCourse
+Springboard,Data Analytics Career Track,Data Analytics,Online,6 months,"$8,500+",Certificate,80%,Yes,Yes,https://www.springboard.com,OnlineCourse
+Class Central + Harvard,CS50's Web Programming,Web Dev,Online,12 weeks,Free,Certificate (opt),70%,Yes,Yes,https://www.classcentral.com/course/harvard-cs50-s-web-programming-with-python-and-javascript-16438,OnlineCourse
+Nucamp,"Back End, SQL, DevOps with Python",DevOps,Online,16 weeks,"$1,780+",Certificate,75%,Yes,Yes,https://www.nucamp.co,OnlineCourse
+Google via Coursera,Google Data Analytics,Data Analytics,Online,6 months,$39/month+,Certificate,65%,Yes,Yes,https://www.coursera.org/professional-certificates/google-data-analytics,OnlineCourse
+Microsoft Learn,Azure Fundamentals,Cloud Computing,Online,4 weeks,Free,Badge,n/a,Yes,Yes,https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/,OnlineCourse
+Pluralsight,Python Developer Path,Programming,Online,3–6 months,$299/year+,Certificate,n/a,Yes,Yes,https://www.pluralsight.com/paths/python,OnlineCourse
+OpenClassrooms,Front-End Developer Path,Web Dev,Online,6 months,$300/month+,Certificate,60%,Yes,Yes,https://openclassrooms.com,OnlineCourse
+Khan Academy,Computer Programming,Programming,Online,Flexible,Free,None,n/a,Yes,Yes,https://www.khanacademy.org/computing/computer-programming,OnlineCourse
+General Assembly,Software Engineering Immersive,Software Dev,Online/In-person,12 weeks,"$15,950+",Certificate,75%,Yes,Partial,https://generalassemb.ly,OnlineCourse
+The Odin Project,Full Stack Curriculum,Web Dev,Online,Flexible,Free,None,n/a,Yes,Yes,https://www.theodinproject.com,OnlineCourse
+Simplilearn,DevOps Engineer Master's Program,DevOps,Online,6 months,"$1,999+",Certificate,70%,Yes,Yes,https://www.simplilearn.com,OnlineCourse
+MIT xPro,Professional Certificate in Coding,Software Dev,Online,32 weeks,"$7,450+",Certificate,80%,Yes,Yes,https://xpro.mit.edu/professional-certificate-coding,OnlineCourse
+Coursera + Google,Google IT Support Certificate,IT Support,Online,6 months,Free–$49/month+,Certificate,60%,Yes,Yes,https://www.coursera.org/professional-certificates/google-it-support,OnlineCourse
+edX + MIT,Introduction to Computer Science (CS50),Computer Science,Online,12 weeks,Free (paid cert optional),Certificate,75%,Yes,Yes,https://cs50.harvard.edu,OnlineCourse
+Coursera + IBM,Data Science Professional Certificate,Data Science,Online,10 months,$39/month+,Certificate,55%,Yes,Yes,https://www.coursera.org/professional-certificates/ibm-data-science,OnlineCourse
+Udacity,AI Programming with Python,AI & Programming,Online,3 months,$399/month+,Nanodegree,50%,Yes,Yes,https://www.udacity.com/course/ai-programming-python-nanodegree--nd089,OnlineCourse
+freeCodeCamp,Responsive Web Design,Web Dev,Online,3 months,Free,Certificate,70%,Yes,Yes,https://www.freecodecamp.org,OnlineCourse
+LinkedIn Learning,Become a Software Developer,Software Dev,Online,4 months,$39/month+,Certificate,60%,Yes,Yes,https://www.linkedin.com/learning/paths/become-a-software-developer,OnlineCourse
+FutureLearn + AWS,AWS Cloud Practitioner Essentials,Cloud Computing,Online,6 weeks,Free,Certificate,n/a,Yes,Yes,https://www.futurelearn.com/courses/aws-cloud-practitioner-essentials,OnlineCourse
+Codecademy,Full-Stack Engineer Career Path,Software Dev,Online,6–12 months,$240/year+,Certificate,65%,Yes,Yes,https://www.codecademy.com/learn/full-stack-engineer-career-path,OnlineCourse
+Springboard,Data Analytics Career Track,Data Analytics,Online,6 months,"$8,500+",Certificate,80%,Yes,Yes,https://www.springboard.com,OnlineCourse
+Class Central + Harvard,CS50's Web Programming,Web Dev,Online,12 weeks,Free,Certificate (opt),70%,Yes,Yes,https://www.classcentral.com/course/harvard-cs50-s-web-programming-with-python-and-javascript-16438,OnlineCourse
+Nucamp,"Back End, SQL, DevOps with Python",DevOps,Online,16 weeks,"$1,780+",Certificate,75%,Yes,Yes,https://www.nucamp.co,OnlineCourse
+Google via Coursera,Google Data Analytics,Data Analytics,Online,6 months,$39/month+,Certificate,65%,Yes,Yes,https://www.coursera.org/professional-certificates/google-data-analytics,OnlineCourse
+Microsoft Learn,Azure Fundamentals,Cloud Computing,Online,4 weeks,Free,Badge,n/a,Yes,Yes,https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/,OnlineCourse
+Pluralsight,Python Developer Path,Programming,Online,3–6 months,$299/year+,Certificate,n/a,Yes,Yes,https://www.pluralsight.com/paths/python,OnlineCourse
+OpenClassrooms,Front-End Developer Path,Web Dev,Online,6 months,$300/month+,Certificate,60%,Yes,Yes,https://openclassrooms.com,OnlineCourse
+Khan Academy,Computer Programming,Programming,Online,Flexible,Free,None,n/a,Yes,Yes,https://www.khanacademy.org/computing/computer-programming,OnlineCourse
+General Assembly,Software Engineering Immersive,Software Dev,Online/In-person,12 weeks,"$15,950+",Certificate,75%,Yes,Partial,https://generalassemb.ly,OnlineCourse
+The Odin Project,Full Stack Curriculum,Web Dev,Online,Flexible,Free,None,n/a,Yes,Yes,https://www.theodinproject.com,OnlineCourse
+Simplilearn,DevOps Engineer Master's Program,DevOps,Online,6 months,"$1,999+",Certificate,70%,Yes,Yes,https://www.simplilearn.com,OnlineCourse
+MIT xPro,Professional Certificate in Coding,Software Dev,Online,32 weeks,"$7,450+",Certificate,80%,Yes,Yes,https://xpro.mit.edu/professional-certificate-coding,OnlineCourse
+Coursera + Google,Google IT Support Certificate,IT Support,Online,6 months,Free–$49/month+,Certificate,60%,Yes,Yes,https://www.coursera.org/professional-certificates/google-it-support,OnlineCourse
+edX + MIT,Introduction to Computer Science (CS50),Computer Science,Online,12 weeks,Free (paid cert optional),Certificate,75%,Yes,Yes,https://cs50.harvard.edu,OnlineCourse
+Coursera + IBM,Data Science Professional Certificate,Data Science,Online,10 months,$39/month+,Certificate,55%,Yes,Yes,https://www.coursera.org/professional-certificates/ibm-data-science,OnlineCourse
+Udacity,AI Programming with Python,AI & Programming,Online,3 months,$399/month+,Nanodegree,50%,Yes,Yes,https://www.udacity.com/course/ai-programming-python-nanodegree--nd089,OnlineCourse
+freeCodeCamp,Responsive Web Design,Web Dev,Online,3 months,Free,Certificate,70%,Yes,Yes,https://www.freecodecamp.org,OnlineCourse
+LinkedIn Learning,Become a Software Developer,Software Dev,Online,4 months,$39/month+,Certificate,60%,Yes,Yes,https://www.linkedin.com/learning/paths/become-a-software-developer,OnlineCourse
+FutureLearn + AWS,AWS Cloud Practitioner Essentials,Cloud Computing,Online,6 weeks,Free,Certificate,n/a,Yes,Yes,https://www.futurelearn.com/courses/aws-cloud-practitioner-essentials,OnlineCourse
+Codecademy,Full-Stack Engineer Career Path,Software Dev,Online,6–12 months,$240/year+,Certificate,65%,Yes,Yes,https://www.codecademy.com/learn/full-stack-engineer-career-path,OnlineCourse
+Springboard,Data Analytics Career Track,Data Analytics,Online,6 months,"$8,500+",Certificate,80%,Yes,Yes,https://www.springboard.com,OnlineCourse
+Class Central + Harvard,CS50's Web Programming,Web Dev,Online,12 weeks,Free,Certificate (opt),70%,Yes,Yes,https://www.classcentral.com/course/harvard-cs50-s-web-programming-with-python-and-javascript-16438,OnlineCourse
+Upwardly Global,Digital Skills Training,IT Job Readiness,Hybrid,4 months,Free,Workshop Certificate,80%,Yes,Yes,https://www.upwardlyglobal.org,SupportOrg
+Per Scholas,"IT Support, Software Engineering, Cybersecurity",Various IT Tracks,In-person/Remote,10–15 weeks,Free,Certificate,85%,Yes,Yes,https://perscholas.org,SupportOrg
+NPower,Tech Fundamentals Program,IT Fundamentals,Hybrid,16 weeks,Free,Certificate,85%,Yes,Yes,https://www.npower.org,SupportOrg
+Refcode,Software Dev Bootcamp,Web Development,Online,12 weeks,Free,Certificate,n/a,Yes,Yes,https://www.refcode.org,SupportOrg
+CodePath,Technical Interview Prep & Courses,Software Engineering,Online,10 weeks,Free,Certificate,75%,Yes,Yes,https://www.codepath.org,SupportOrg
+World Education Services (WES),Global Talent Bridge,Credential Evaluation & Advising,Online,Variable,Free/Low-cost,Credential Evaluation,n/a,Yes,Yes,https://www.wes.org/partners/global-talent-bridge,SupportOrg
+Welcoming America,Community Integration Programs,General Workforce Access,Onsite/Hybrid,Ongoing,Free,n/a,n/a,Yes,Partial,https://www.welcomingamerica.org,SupportOrg
+TechBridge,Technology Career Programs,IT Support & DevOps,Online,3–6 months,Free,Certificate,n/a,Yes,Yes,https://techbridge.org,SupportOrg
+YR Media,Digital Media & Tech Training,Tech & Media,Online/In-person,Ongoing,Free,Training,n/a,Yes,Partial,https://yr.media,SupportOrg
+Generation USA,Free IT Training Tracks,"IT Support, Web Dev",Online,10–16 weeks,Free,Certificate,75%,Yes,Yes,https://usa.generation.org,SupportOrg
+Job Corps,IT Career Training,General IT,In-person,Varies,Free,Certificate,n/a,Yes,Partial,https://www.jobcorps.gov,SupportOrg
+AmeriCorps + Service Year,Tech-Related Public Service,Digital Access,Onsite,1 year,Stipend,Service Completion,n/a,Yes,Partial,https://www.americorps.gov,SupportOrg
+International Rescue Committee (IRC),Pathways to Digital,Digital Skills,Hybrid,12 weeks,Free,Certificate,n/a,Yes,Yes,https://www.rescue.org,SupportOrg
+Catholic Charities USA,Workforce Development,Tech Inclusion Programs,Hybrid,Ongoing,Free,Training Certs,n/a,Yes,Partial,https://www.catholiccharitiesusa.org,SupportOrg
+HIAS,Employment Services,Job Readiness (incl. IT),Hybrid,Ongoing,Free,n/a,n/a,Yes,Partial,https://www.hias.org,SupportOrg
+Rescue.org + Coursera,IT Career Skills for Refugees,Tech Upskilling,Online,Self-paced,Free,Coursera Certs,n/a,Yes,Yes,https://www.rescue.org/announcement/free-coursera-courses-refugees,SupportOrg
+ICCRC-affiliated orgs,Settlement & Training Services,Job Readiness,Onsite,Ongoing,Free,n/a,n/a,Yes,Partial,https://www.canada.ca/en/immigration-refugees-citizenship.html,SupportOrg
+Digital Promise,Adult Learning Innovation,Digital Literacy,Online,Ongoing,Free,Digital Badges,n/a,Yes,Yes,https://digitalpromise.org,SupportOrg
+ReDI School (U.S. partners),Digital Integration for Refugees,Coding & Digital Literacy,Hybrid,3–6 months,Free,Certificate,n/a,Yes,Yes,https://www.redi-school.org,SupportOrg
+Tech-Moms,Intro to Tech Careers,Career Change for Women,Hybrid,9 weeks,Low-cost/Free,Workshop,n/a,Yes,Partial,https://www.tech-moms.org,SupportOrg
+Upwardly Global,Digital Skills Training,IT Job Readiness,Hybrid,4 months,Free,Workshop Certificate,80%,Yes,Yes,https://www.upwardlyglobal.org,SupportOrg
+Per Scholas,"IT Support, Software Engineering, Cybersecurity",Various IT Tracks,In-person/Remote,10–15 weeks,Free,Certificate,85%,Yes,Yes,https://perscholas.org,SupportOrg
+NPower,Tech Fundamentals Program,IT Fundamentals,Hybrid,16 weeks,Free,Certificate,85%,Yes,Yes,https://www.npower.org,SupportOrg
+Refcode,Software Dev Bootcamp,Web Development,Online,12 weeks,Free,Certificate,n/a,Yes,Yes,https://www.refcode.org,SupportOrg
+CodePath,Technical Interview Prep & Courses,Software Engineering,Online,10 weeks,Free,Certificate,75%,Yes,Yes,https://www.codepath.org,SupportOrg
+World Education Services (WES),Global Talent Bridge,Credential Evaluation & Advising,Online,Variable,Free/Low-cost,Credential Evaluation,n/a,Yes,Yes,https://www.wes.org/partners/global-talent-bridge,SupportOrg
+Welcoming America,Community Integration Programs,General Workforce Access,Onsite/Hybrid,Ongoing,Free,n/a,n/a,Yes,Partial,https://www.welcomingamerica.org,SupportOrg
+TechBridge,Technology Career Programs,IT Support & DevOps,Online,3–6 months,Free,Certificate,n/a,Yes,Yes,https://techbridge.org,SupportOrg
+YR Media,Digital Media & Tech Training,Tech & Media,Online/In-person,Ongoing,Free,Training,n/a,Yes,Partial,https://yr.media,SupportOrg
+Generation USA,Free IT Training Tracks,"IT Support, Web Dev",Online,10–16 weeks,Free,Certificate,75%,Yes,Yes,https://usa.generation.org,SupportOrg
+Job Corps,IT Career Training,General IT,In-person,Varies,Free,Certificate,n/a,Yes,Partial,https://www.jobcorps.gov,SupportOrg
+AmeriCorps + Service Year,Tech-Related Public Service,Digital Access,Onsite,1 year,Stipend,Service Completion,n/a,Yes,Partial,https://www.americorps.gov,SupportOrg
+International Rescue Committee (IRC),Pathways to Digital,Digital Skills,Hybrid,12 weeks,Free,Certificate,n/a,Yes,Yes,https://www.rescue.org,SupportOrg
+Catholic Charities USA,Workforce Development,Tech Inclusion Programs,Hybrid,Ongoing,Free,Training Certs,n/a,Yes,Partial,https://www.catholiccharitiesusa.org,SupportOrg
+HIAS,Employment Services,Job Readiness (incl. IT),Hybrid,Ongoing,Free,n/a,n/a,Yes,Partial,https://www.hias.org,SupportOrg
+Rescue.org + Coursera,IT Career Skills for Refugees,Tech Upskilling,Online,Self-paced,Free,Coursera Certs,n/a,Yes,Yes,https://www.rescue.org/announcement/free-coursera-courses-refugees,SupportOrg
+ICCRC-affiliated orgs,Settlement & Training Services,Job Readiness,Onsite,Ongoing,Free,n/a,n/a,Yes,Partial,https://www.canada.ca/en/immigration-refugees-citizenship.html,SupportOrg
+Digital Promise,Adult Learning Innovation,Digital Literacy,Online,Ongoing,Free,Digital Badges,n/a,Yes,Yes,https://digitalpromise.org,SupportOrg
+ReDI School (U.S. partners),Digital Integration for Refugees,Coding & Digital Literacy,Hybrid,3–6 months,Free,Certificate,n/a,Yes,Yes,https://www.redi-school.org,SupportOrg
+Tech-Moms,Intro to Tech Careers,Career Change for Women,Hybrid,9 weeks,Low-cost/Free,Workshop,n/a,Yes,Partial,https://www.tech-moms.org,SupportOrg
+Upwardly Global,Digital Skills Training,IT Job Readiness,Hybrid,4 months,Free,Workshop Certificate,80%,Yes,Yes,https://www.upwardlyglobal.org,SupportOrg
+Per Scholas,"IT Support, Software Engineering, Cybersecurity",Various IT Tracks,In-person/Remote,10–15 weeks,Free,Certificate,85%,Yes,Yes,https://perscholas.org,SupportOrg
+NPower,Tech Fundamentals Program,IT Fundamentals,Hybrid,16 weeks,Free,Certificate,85%,Yes,Yes,https://www.npower.org,SupportOrg
+Refcode,Software Dev Bootcamp,Web Development,Online,12 weeks,Free,Certificate,n/a,Yes,Yes,https://www.refcode.org,SupportOrg
+CodePath,Technical Interview Prep & Courses,Software Engineering,Online,10 weeks,Free,Certificate,75%,Yes,Yes,https://www.codepath.org,SupportOrg
+World Education Services (WES),Global Talent Bridge,Credential Evaluation & Advising,Online,Variable,Free/Low-cost,Credential Evaluation,n/a,Yes,Yes,https://www.wes.org/partners/global-talent-bridge,SupportOrg
+Welcoming America,Community Integration Programs,General Workforce Access,Onsite/Hybrid,Ongoing,Free,n/a,n/a,Yes,Partial,https://www.welcomingamerica.org,SupportOrg
+TechBridge,Technology Career Programs,IT Support & DevOps,Online,3–6 months,Free,Certificate,n/a,Yes,Yes,https://techbridge.org,SupportOrg
+YR Media,Digital Media & Tech Training,Tech & Media,Online/In-person,Ongoing,Free,Training,n/a,Yes,Partial,https://yr.media,SupportOrg
+Generation USA,Free IT Training Tracks,"IT Support, Web Dev",Online,10–16 weeks,Free,Certificate,75%,Yes,Yes,https://usa.generation.org,SupportOrg
