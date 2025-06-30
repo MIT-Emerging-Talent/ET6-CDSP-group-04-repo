@@ -83,4 +83,25 @@ initially expected.
 - Improved skills in maintaining regular communication and follow-up structures.  
 - Enhanced ability to organize workflow and stay connected with the team.  
 - Explored websites and applications relevant to the research topic to compensate for limited information.  
-- Recognized the need for kick-off meetings to better organize work in future milestones.  
+- Recognized the need for kick-off meetings to better organize work in future milestones.
+
+### Yuri Spizhovyi
+
+**Contributions:**  
+
+- Focused on collecting and organizing a structured dataset of IT training programs in the U.S.  
+- Created a data cleaning notebook to normalize program cost, duration, and accessibility.  
+- Added real-world references where available to improve the dataset's realism.  
+- Documented the process in a clear format and supported integration with GitHub and Google Colab workflows.  
+
+**Challenges:**  
+
+- Cleaning required additional effort to standardize inconsistent fields like cost and length.  
+- Encountered missing or vague entries (e.g., “Varies”, “Ongoing”) that needed estimation or handling.  
+- Needed to balance speed and accuracy when deciding whether to use modeled vs. real data.  
+
+**Progress:**  
+
+- Improved skills in structuring data cleaning logic and documenting decisions clearly.  
+- Gained confidence working with Git versioning and shared repository structure.  
+- Developed templates and prompts that may be reused by teammates in similar tasks.
