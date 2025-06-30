@@ -124,3 +124,30 @@ initially expected.
 
 - Built confidence using public data portals (IPUMS, MPI, ORR).  
 - Improved data evaluation skills and identified new data leads.
+
+### Olubusayo Solola
+
+**Contributions:**  
+
+- Shared relevant resources, including pushing some of the research
+findings to GitHub for better accessibility and version tracking.
+- Researched resources and worked on assigned sub-question.  
+
+**Challenges:**  
+
+- Faced unforeseen personal and academic challenges that affected
+  consistency, leading to missed meetings and delays in reviewing
+  key research papers.
+- Found it difficult to concentrate on a single aspect of the project
+  at times, due to overlapping responsibilities and shifting priorities
+
+**Progress:**  
+
+- Recognized the value of maintaining regular communication across
+  a distributed team.
+- Improved ability to adapt and contribute despite setbacks by using
+  open-source platforms (like GitHub) and publicly available tools.
+- Learned the importance of early-stage planning, such as kickoff
+  meetings, to set clearer expectations and improve team alignment
+  for future projects
+  
