@@ -108,17 +108,23 @@ initially expected.
 
 ### Khadija Ramlawi
 
-**Contributions:** 
+**Contributions:**  
 
-- Researched for resources and worked on my assigned sub-question to gather datasets.
-- Shared leads and aligned data needs with teammates.
-- Facilitated meetings for the team to make sure we're always on the same page.
+- Researched for resources and worked on my assigned sub-question to gather datasets.  
+- Shared leads and aligned data needs with teammates.  
+- Facilitated meetings for the team to make sure we're always on the same page.  
 
-**Challenges:** 
+**Challenges:**  
 
-- Hard to find recent, refugee-specific data related to our question.
-- Had a problem with my laptop and therefore faced Git setup issues that delayed work.
-- Hard to manage work along with family commitments, especially with a few emergencies this week.
+- Hard to find recent, refugee-specific data related to our question.  
+- Had a problem with my laptop and therefore faced Git setup issues that delayed work.  
+- Hard to manage work along with family commitments, especially with a few emergencies this week.  
+
+**Progress:**  
+
+- Built confidence using public data portals (IPUMS, MPI, ORR).  
+- Improved data evaluation skills and identified new data leads.  
+
 
 **Progress:**
 
