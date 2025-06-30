@@ -70,14 +70,205 @@ education in enabling their employment outcomes?**
 
 ### Suggested Data Sources 1
 
-- UNHCR  
-- Migration Policy Institute  
-- American Community Survey (ACS)  
-- U.S. Office of Refugee Resettlement (ORR)
+1. **WIOA Individual Performance Records (Public Use Data Archive)**  
+   - **Content**: Training barriers (cost, language, documentation), employment status, and program participation data.
+   - **Utility**: Provides metrics on barriers and employment outcomes for displaced youth.  
+   - **Limitations**: Data may not explicitly isolate displaced youth.
 
-### TEAM DATA SOURCES
+2. **Frequently Requested Statistics on Immigrants and Immigration in the United States**  
+   - **Source**: [Migration Policy Institute](https://www.migrationpolicy.org)  
+   - **Content**: Up-to-date demographics on U.S. immigrants and refugees, including education, English proficiency,
+and employment rates.  
+   - **Utility**: Helps outline the overall profile of displaced youth.  
+   - **Limitations**: No specific IT training barrier data.
 
-1. *(Add more as needed)*
+3. **UNICEF Report: "Digitally Powered ‘Learning to Earning’"**  
+   - **Content**: Highlights barriers displaced youth face in digital skills access, such as cost, documentation,
+  and language. Includes case studies and global recommendations.  
+   - **Utility**: Offers a global perspective on IT training barriers.  
+   - **Limitations**: Not specific to the U.S.
+
+4. **Upwardly Global White Paper (UPG-WHITE-PAPER-REPORT-PROOF-5.pdf)**  
+   - **Content**: Explores employment barriers (e.g., credential recognition, language) for displaced jobseekers in tech
+   - **Utility**: Focused on immigrants broadly, with insights into tech-sector barriers.  
+   - **Limitations**: Limited youth-specific data.
+
+5. **College-Educated Immigrants in the United States**  
+   - **Source**: [Migration Policy Institute](https://www.migrationpolicy.org)  
+   - **Content**: Demographic profile of college-educated immigrants, including employment outcomes.  
+   - **Utility**: Provides a focus on education level and employment trends.  
+   - **Limitations**: Data limited to college-educated individuals.
+
+6. **Frequently Requested Statistics on Immigrants**  
+   - **Source**: [Migration Policy Institute](https://www.migrationpolicy.org)  
+   - **Content**: Comprehensive statistics on immigrant and refugee populations, including size, demographics, and
+employment data.  
+   - **Utility**: Useful for understanding broader immigrant trends.  
+   - **Limitations**: Lacks IT-specific and youth-specific data.
+
+7. **Refugee Report Final**  
+   - **Content**: Assumes demographic and employment data on displaced youth (specific details require verification).  
+   - **Utility**: General insights into refugee-related data.  
+   - **Limitations**: Scope depends on report contents.
+
+8. **2022 Annual Survey of Refugees**  
+   - **Content**: Demographics of recent refugee arrivals: age, education, English proficiency, household income, and
+  employment.  
+   - **Utility**: Helps in understanding refugee integration trends.  
+   - **Limitations**: No direct IT or tech training data.
+
+9. **2021 Annual Survey of Refugees Key Findings**  
+   - **Content**: Similar to the 2022 survey but includes insights on earlier refugee cohorts.  
+   - **Utility**: Provides additional longitudinal data.  
+   - **Limitations**: Lacks displaced youth-specific focus.
+
+10. **Digitally Powered Learning to Earning (UNICEF)**  
+
+- **Content**: Examines how digital skills training supports displaced youth transitioning from education to work.  
+- **Utility**: Highlights major barriers like cost, documentation, and limited connectivity, with case studies and
+  recommendations.  
+- **Limitations**: Focused on global data, not specific to U.S. displaced youth.
+
+---
+
+### Sub-Question 1️⃣  
+
+**What % of displaced youth report cost, documentation, or language as their main barrier to IT training?**
+
+**Source**  
+Upwardly Global White Paper (UPG-WHITE-PAPER-REPORT-PROOF-5.pdf)
+
+**Data Provided**  
+Barriers to employment for displaced and immigrant jobseekers in tech and other sectors,  
+including communication (language), credential recognition (documentation), and cost
+
+**Limitations/Notes**  
+Focuses on immigrants broadly, not youth-specific. IT-specific data limited
+
+---
+
+**Source**  
+UNICEF ‘Learning to Earning’ Report
+
+**Data Provided**  
+Identifies main global barriers to digital skills access for displaced youth: cost, documentation,  
+language, internet connectivity, credentialing
+
+**Limitations/Notes**  
+Global data; not U.S.-specific, but useful as proxy
+
+---
+
+**Source**  
+WIOA Individual Performance Records
+
+**Data Provided**  
+Data on training barriers including language and documentation for program participants  
+(may include refugees/displaced youth if flagged)
+
+**Limitations/Notes**  
+May not isolate displaced youth unless filtered
+
+---
+
+### Sub-Question 2️⃣  
+
+**How many displaced youth are in the U.S., and what are their demographics  
+(age, education, English proficiency, legal status)?**
+
+**Source**  
+Frequently Requested Statistics on Immigrants (MPI)
+
+**Data Provided**  
+U.S. immigrant and refugee demographics: population size, age, education,  
+English proficiency, state distribution
+
+**Limitations/Notes**  
+Broad immigrant/refugee data, not IT-focused
+
+---
+
+**Source**  
+2022 & 2021 Annual Survey of Refugees (ASR)
+
+**Data Provided**  
+Demographics of recent refugee arrivals: age, education, English proficiency,  
+household income, employment
+
+**Limitations/Notes**  
+No direct IT or tech training data
+
+---
+
+**Source**  
+College-Educated Immigrants in the U.S. (MPI)
+
+**Data Provided**  
+Demographic profile of college-educated immigrants, including employment outcomes
+
+**Limitations/Notes**  
+Focus on college-educated only
+
+---
+
+**Source**  
+Refugee Report Final
+
+**Data Provided**  
+Assumed to contain demographic and employment data on displaced youth  
+(confirm details in report)
+
+**Limitations/Notes**  
+Scope depends on actual report contents
+
+---
+
+### Sub-Question 3️⃣  
+
+**What is their current employment/unemployment status, and where are they concentrated?**
+
+**Source**  
+WIOA Individual Performance Records
+
+**Data Provided**  
+Employment status for program participants (may include displaced youth if flagged)
+
+**Limitations/Notes**  
+May require filtering or assumptions
+
+---
+
+**Source**  
+Frequently Requested Statistics on Immigrants (MPI)
+
+**Data Provided**  
+Employment rates and state distribution for immigrant/refugee populations
+
+**Limitations/Notes**  
+Lacks displaced youth-specific breakdown
+
+---
+
+**Source**  
+2022 & 2021 ASR
+
+**Data Provided**  
+Employment and unemployment rates for refugees by age, English ability, education, and state
+
+**Limitations/Notes**  
+No IT-specific or displaced youth isolation
+
+---
+
+**Source**  
+Upwardly Global White Paper
+
+**Data Provided**  
+Employment barriers and placement outcomes for displaced and immigrant jobseekers  
+in tech and other fields
+
+**Limitations/Notes**  
+Not statistically representative; qualitative insights
 
 ---
 
