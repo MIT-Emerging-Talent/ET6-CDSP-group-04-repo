@@ -383,20 +383,52 @@ These metrics are used to compare the effectiveness and demand for different edu
 > - Flexible, often online learning formats
 Improved job satisfaction and career prospects
 >
-> **Internet pages:**
+> **Internet Sources**
 >
-> - [2020 Coding Bootcamp Alumni Outcomes & Demographics Report](https://www.coursereport.com/reports/2020-coding-bootcamp-alumni-outcomes-demographics-report-during-covid-19?utm_source=chatgpt.com)
-> - [2019 Coding Bootcamp Alumni Outcomes & Demographics Report](<https://www.coursereport.com/reports/coding-bootcamp-job-placement-report-2019>)
+> - **2020 Coding Bootcamp Alumni Outcomes & Demographics Report**
+  Annual report with comprehensive statistics on bootcamp graduates' employment, salary changes,
+  and demographic profiles for 2020.
+> - **2019 Coding Bootcamp Alumni Outcomes & Demographics Report**  
+  Previous year’s report for longitudinal analysis and comparison.
 >
-> **CSV files:**
+>## Dataset Descriptions
 >
-> - Educational Attainment vs Post Bootcamp, raw_data/Table 17_Educational Attainment_vs_Post_Bootcamp_Success.csv
-> - Race_Ethnicity_and_Post_Bootcamp, raw_data/Table 18_Race_Ethnicity_and_Post_Bootcamp_Success.csv
-> - Gender and Post Bootcamp, raw_data/Table 19_Gender_and_Post_Bootcamp_Success.csv
-> - Programming Language and Post-Bootcamp, raw_data/Table 20_Programming_Language_and_Post-Bootcamp.csv
-> - Location and Post Bootcamp,  raw_data/Table 21_Location_and_Post_Bootcamp_Success.csv
-> - Pre-bootcamp Income vs Post_Bootcamp, raw_data/Table_16_Pre_boot_camp_Income vs_Post_Bootcam.csv
+> **Table_16_Pre_boot_camp_Income-vs_Post_Bootcam.csv**  
+This dataset compares the outcomes of graduates based on their income before attending a bootcamp. It provides data on
+average pre-bootcamp and post-bootcamp salaries, employment rates after graduation, and the percentage increase in salary
+(“salary lift”) for each income group[6].
 >
+> **Table 17_Educational Attainment_vs_Post_Bootcamp_Success.csv**  
+This file analyzes how educational attainment affects post-bootcamp outcomes. It presents average salaries before and
+after the bootcamp, employment rates, and salary lift,
+segmented by education level such as no college degree, associate’s, bachelor’s, master’s, professional, and doctorate degrees.
+>
+> **Table 18_Race_Ethnicity_and_Post_Bootcamp_Success.csv**  
+This dataset examines post-bootcamp results by race and ethnicity. For each group, it reports pre- and post-bootcamp
+average salaries, employment rates, and salary lift.
+
+**Table 19_Gender_and_Post_Bootcamp_Success.csv**  
+This file compares bootcamp outcomes by gender. It includes data on average salaries before and after the bootcamp,
+employment rates, and salary lift for males and females.
+
+**Table 20_Programming_Language_and_Post-Bootcamp.csv**  
+This dataset links the programming language studied during the bootcamp to post-bootcamp salary and employment outcomes.
+For each language, it provides pre- and post-bootcamp salary averages, employment rates, and salary lift.
+
+**Table 21_Location_and_Post_Bootcamp_Success.csv**  
+This file compares post-bootcamp outcomes by city and region. It includes data on average salaries before and after the
+bootcamp, employment rates, and salary lift for each location.
+
+**Bootcamp-Duration-and-Post-Bootcamp-Success.csv**  
+This dataset analyzes the effect of bootcamp duration on post-bootcamp salary and employment. For each duration category
+(such as 8 weeks, 12 weeks, and 16+ weeks), it reports the post-bootcamp average salary, employment rate, and salary lift.
+
+---
+
+## Key Metrics in Each Dataset
+
+- **Pre-bootcamp Salary:** The average salary before
+
 ---
 
 ## 5. Employer Perceptions and Success Factors (Nelson + Simi)
