@@ -164,7 +164,7 @@ findings to GitHub for better accessibility and version tracking.
 - ontributed to organizing the meeting minutes and participated in
   asynchronous collaboration.
 
-**Challenges:** 
+**Challenges:**  
 
 - Balancing this project with other responsibilities made it difficult
   to stay consistently ahead on deliverables.
@@ -179,6 +179,3 @@ findings to GitHub for better accessibility and version tracking.
   identifying practical insights for our project.
 - Became more comfortable using GitHub for sharing materials and
   keeping my contributions transparent.
-
-
-  
