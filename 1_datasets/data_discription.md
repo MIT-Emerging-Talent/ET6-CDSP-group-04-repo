@@ -40,7 +40,9 @@ Since this is a shared document, please ensure the following:
 
 ## Main Research Question  
 
-> **What are the most accessible and employer-relevant career pathways into the IT sector for young displaced individuals without prior tech backgrounds in the U.S., and how do alternative education models compare to formal higher education in enabling their employment outcomes?**
+> **What are the most accessible and employer-relevant career pathways into the IT sector for young displaced individuals
+without prior tech backgrounds in the U.S., and how do alternative education models compare to formal higher education
+in enabling their employment outcomes?**
 
 ---
 
@@ -344,7 +346,9 @@ Not statistically representative; qualitative insights
   
 ### Overview
 
-The article contrasts bootcamp certifications with academic degrees, emphasizing the importance of accreditation in selecting an educational path. It explores the advantages and drawbacks of each approach and how accreditation influences career opportunities.
+The article contrasts bootcamp certifications with academic degrees, emphasizing the importance of accreditation in
+selecting an educational path. It explores the advantages and drawbacks of each approach and how accreditation influences
+career opportunities.
 
 #### Metrics Discussed
 
