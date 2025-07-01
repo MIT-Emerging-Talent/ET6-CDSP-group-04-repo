@@ -337,119 +337,144 @@ Not statistically representative; qualitative insights
 - How long does it take graduates to secure IT employment post-training?
 - How do employment outcomes vary based on demographic factors (e.g., age, English level, immigration status)?
 
-### Example Metrics 4
+### Example Metrics Q4
 
 - Median time to employment for each pathway.
 - Employment rates and median starting salaries by training type.
 - Employment rates by demographic factors (e.g., age, immigration status).
 
-### Suggested Data Sources 4
+### TEAM DATA SOURCES Q4
 
-- Brookings Institution  
-- Google Career Certificates reports  
-- Burning Glass Technologies  
-- Harvard CEPR
-
-### TEAM DATA SOURCES 4
-
-- Bootcamp Certification vs. Degree: Why Accreditation Matters
+### **Bootcamp Certification vs. Degree: Why Accreditation Matters**
   
-> **What the article is about**:
->
->The article compares bootcamp certifications and academic degrees, explaining why accreditation matters when choosing an
- educational path. It discusses the pros and cons of both options and highlights how accreditation can impact career opportunities.
->
-> **What metrics are included:**
->
-> - EdTech market growth forecasts (e.g., projected market size by 2025)
-> - Graduate employment rates (e.g., percentage of bootcamp graduates hired)
-> - Average salaries for graduates of various programs
-These metrics are used to compare the effectiveness and demand for different educational pathways.
->
-> Note: Contacted the author of the paper, waiting for a reply , the information about data is might be updated in the future.
->
-> Link: 2_data_preparation/raw_data/Bootcamp Certification vs. Degree: Why Accreditation Matters?.pdf
+### Overview
 
-- 2020 Coding Bootcamp Alumni Outcomes & Demographics Report
+The article contrasts bootcamp certifications with academic degrees, emphasizing the importance of accreditation in selecting an educational path. It explores the advantages and drawbacks of each approach and how accreditation influences career opportunities.
+
+#### Metrics Discussed
+
+- **EdTech Market Growth**: Projected market size by 2025.
+- **Graduate Employment Rates**: Bootcamp graduate hiring percentages.
+- **Average Salaries**: Comparison across different educational programs.
+
+#### Notes
+
+- Contacted the paper's author; data updates are expected.
+
+**[Link to the Document](/raw_data/Bootcamp_Certification_vs_Degree_WhyAccreditationMatters.pdf)**
+
+---
+
+### 2020 Coding Bootcamp Alumni Outcomes & Demographics Report
+
+#### Context
+
+This report analyzes the recovery ("healing") experienced by coding bootcamp graduates in economic and professional terms,
+focusing on skills acquisition, salary growth, and job placement rates.
+
+#### Highlights
+
+- **Salary Increase**: Average growth of +56%.
+- **High Job Placement**: 79% employed in-field.
+- **COVID-19 Impact**: Opportunities for career changers.
+- **Learning Formats**: Flexible and online options.
+
+#### Key Internet Sources
+
+1. **[2020 Coding Bootcamp Alumni Outcomes & Demographics Report](https://www.coursereport.com/reports/2020-coding-bootcamp-alumni-outcomes-demographics-report-during-covid-19)**:
+Comprehensive graduate statistics.
+2. **[2019 Coding Bootcamp Alumni Outcomes & Demographics Report](https://www.coursereport.com/reports/coding-bootcamp-job-placement-report-2019)**
+: Comparative analysis of longitudinal data.
+
+---
+
+## Dataset Descriptions
+
+### **Table_16_Pre_boot_camp_Income-vs_Post_Bootcamp.csv**
+
+Compares graduate outcomes by pre-bootcamp income, including:
+
+- Pre- and post-bootcamp salaries.
+- Employment rates after graduation.
+- Salary lift percentages.
+
+### **Table_17_Educational_Attainment_vs_Post_Bootcamp_Success.csv**
+
+Analyzes outcomes by education level:
+
+- Salary changes.
+- Employment rates segmented by educational attainment (e.g., no degree, bachelor’s).
+
+### **Table_18_Race_Ethnicity_and_Post_Bootcamp_Success.csv**
+
+Examines outcomes by race/ethnicity:
+
+- Average pre- and post-bootcamp salaries.
+- Employment rates and salary lift.
+
+### **Table_19_Gender_and_Post_Bootcamp_Success.csv**
+
+Compares outcomes by gender:
+
+- Pre- and post-bootcamp salary averages.
+- Employment rates and salary lift.
+
+### **Table_20_Programming_Language_and_Post-Bootcamp.csv**
+
+Links programming languages studied to post-bootcamp outcomes:
+
+- Salary averages.
+- Employment rates and salary lift.
+
+### **Table_21_Location_and_Post_Bootcamp_Success.csv**
+
+Analyzes outcomes by city/region:
+
+- Salaries before and after bootcamp.
+- Employment rates and salary lift.
+
+### **Bootcamp-Duration-and-Post-Bootcamp-Success.csv**
+
+Evaluates bootcamp duration’s impact:
+
+- Post-bootcamp average salary.
+- Employment rates and salary lift by duration (e.g., 8, 12, or 16+ weeks).
+
+### **Pathway-Pre-TrainingSalary-Post-TrainingSalary-Employed-SalaryLift-TimetoEmployment-KeyDemographicFactors.csv**
+
+Summarizes IT career outcomes for coding bootcamp, online platforms, and higher education graduates:
+
+- Pre- and post-training salaries.
+- Employment rates.
+- Salary lift percentages.
+
+---
+
+## Key Insights from Data
+
+1. **Salary Growth**:
+   - Lowest earners (<$30K) gain most (+200% salary growth).
+   - Non-degree holders outperform associate degree holders.
+
+2. **Employment Timelines**:
+   - Bootcamps: 57% employed within 6 months (31% in ≤3 months).
+   - Online Learners: 30% of unemployed find jobs post-training.
+   - College: 68% placement rate for CS graduates.
+
+3. **Program Duration**:
+   - 12-16 week bootcamps achieve the highest employment rate (90%).
+
+---
+
+**[Download Combined Dataset](/1_datasets/cleaned_data/cleaned_IT_Career_Outcomes_USA_Combined_By_EducationType_Demographics.csv)**
+
+Unified dataset summary of IT career outcomes segmented by education type, demographics, and key metrics:
+
+- Pre-Training Salary
+- Post-Training Salary
+- Employment Rates
+- Salary Lift
   
-> In the context of the 2020 Course Report on coding bootcamp graduates, “healing” refers to the economic and
-> professional recovery that graduates experience after completing a bootcamp.
-> **This “healing” is based on:**
->
-> - Gaining new, in-demand tech skills
-> - Significant salary increases (average +56%)
-> - High job placement rates (79% work in-field)
-> - Opportunities for career changers and those affected by COVID-19
-> - Flexible, often online learning formats
-Improved job satisfaction and career prospects
->
-> **Internet Sources**
->
-> - **2020 Coding Bootcamp Alumni Outcomes & Demographics Report**
-  Annual report with comprehensive statistics on bootcamp graduates' employment, salary changes,
-  and demographic profiles for 2020.
-> - **2019 Coding Bootcamp Alumni Outcomes & Demographics Report**  
-  Previous year’s report for longitudinal analysis and comparison.
->
->## Dataset Descriptions
->
-> **Table_16_Pre_boot_camp_Income-vs_Post_Bootcam.csv**  
-This dataset compares the outcomes of graduates based on their income before attending a bootcamp. It provides data on
-average pre-bootcamp and post-bootcamp salaries, employment rates after graduation, and the percentage increase in salary
-(“salary lift”) for each income group[6].
->
-> **Table 17_Educational Attainment_vs_Post_Bootcamp_Success.csv**  
-This file analyzes how educational attainment affects post-bootcamp outcomes. It presents average salaries before and
-after the bootcamp, employment rates, and salary lift,
-segmented by education level such as no college degree, associate’s, bachelor’s, master’s, professional, and doctorate degrees.
->
-> **Table 18_Race_Ethnicity_and_Post_Bootcamp_Success.csv**  
-This dataset examines post-bootcamp results by race and ethnicity. For each group, it reports pre- and post-bootcamp
-average salaries, employment rates, and salary lift.
->
->**Table 19_Gender_and_Post_Bootcamp_Success.csv**  
-This file compares bootcamp outcomes by gender. It includes data on average salaries before and after the bootcamp,
-employment rates, and salary lift for males and females.
->
->**Table 20_Programming_Language_and_Post-Bootcamp.csv**  
-This dataset links the programming language studied during the bootcamp to post-bootcamp salary and employment outcomes.
-For each language, it provides pre- and post-bootcamp salary averages, employment rates, and salary lift.
->
->**Table 21_Location_and_Post_Bootcamp_Success.csv**  
-This file compares post-bootcamp outcomes by city and region. It includes data on average salaries before and after the
-bootcamp, employment rates, and salary lift for each location.
->
->**Bootcamp-Duration-and-Post-Bootcamp-Success.csv**  
-This dataset analyzes the effect of bootcamp duration on post-bootcamp salary and employment. For each duration category
-(such as 8 weeks, 12 weeks, and 16+ weeks), it reports the post-bootcamp average salary, employment rate, and salary lift.
->
->**Pathway-Pre-TrainingSalary-Post-TrainingSalary-Employed-SalaryLift-TimetoEmployment-KeyDemographicFactors.csv**
->
-> - Notes:
-Salary Ranges: Online course salaries vary by platform/completion
-Bootcamp Demographics: Data from Tables 16-21 shows:
-Lowest prior earners (≤$30K) gain most (+200%)
-Non-degree holders outperform associate's degree holders in salary growth
-12-16 week programs yield highest employment (90%)
-College Data: Based on 2023 US graduate surveys (Career Karma, BLS)
->
-> - Key Insights from Data
-> - - Employment Timelines
-Bootcamps: 57% secure jobs within 6 months (31% in ≤3 months)
-Online Learners: 30% of unemployed find jobs post-training
-College: 68% placement rate for CS graduates
->
->**IT_Career_Outcomes_USA_Combined_By_EducationType_Demographics.csv**
->This CSV table provides a unified dataset summarizing IT career outcomes for graduates of coding bootcamps, online
-platforms, and higher education in the USA, with a focus on those entering the field without prior experience. Each row
-represents a specific analysis group (such as education level, ethnicity, gender, programming language, city, income
-bracket, or program duration) and includes the following key metrics:
->
-> - Pre-Training Salary (USD): Average salary before training (where available)
-> - Post-Training Salary (USD): Average salary after completing the program
-> - % Employed: Percentage of graduates employed after training
-> - % Salary Lift: Percentage increase in salary after training
->
 ---
 
 ## 5. Employer Perceptions and Success Factors (Nelson + Simi)
