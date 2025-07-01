@@ -1,0 +1,14 @@
+"Pathway","Pre-Training Salary","Post-Training Salary","% Employed","% Salary Lift","Time to Employment","Key Demographic Factors"
+"Bootcamp (No Degree)","$34,869","$61,836","83%","+77%","31% in 1-3 months","Education:Lowest-educated see highest salary lift (+77%)
+Income:≤$30K earners: +200% salary lift
+Race:Native/Pacific Islanders: +70% lift
+Location:San Francisco: +90% salary lift"
+"Bootcamp (Associate's)","$41,591","$57,762","82%","+39%","26% in 4-6 months","Gender:Females: 88% employed (+53% lift)
+Language:Swift: +93% lift (50% employed)
+Duration:16+ weeks: $72,693 salary"
+"Bootcamp (Bachelor's)","$45,266","$71,267","90%","+57%","19% >6 months","Race:Asians: $75,617 avg salary
+Location:Nashville: 100% employed"
+"Online Courses(Coursera)","N/A","$40,000–$70,000*","60% (USA)","20% report increases","1-6 months","Unemployed:30% find jobs post-training
+Global:91% career benefits in developing economies"
+"College Grad(Computer Science)","N/A","$60,000","68%","N/A","3-6 months","Field:CS highest placement vs. humanities (64.5%)
+Degree Level:Master's: $74,774 (bootcamp) vs. $60,000 (college)"
