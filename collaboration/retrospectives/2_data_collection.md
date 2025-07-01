@@ -150,4 +150,35 @@ findings to GitHub for better accessibility and version tracking.
 - Learned the importance of early-stage planning, such as kickoff
   meetings, to set clearer expectations and improve team alignment
   for future projects
+
+### Shayma Mohamed
+
+**Contributions:**  
+
+- Worked on identifying accessible and entry-level IT roles suitable
+  for individuals without a tech background.
+- Collected relevant resources and job market data to support the
+  research question.
+- Helped define sub-questions and clarified the research direction
+  through team discussions.
+- ontributed to organizing the meeting minutes and participated in
+  asynchronous collaboration.
+
+**Challenges:** 
+
+- Balancing this project with other responsibilities made it difficult
+  to stay consistently ahead on deliverables.
+- Needed more time than expected to clean and organize the collected
+  resources and data.
+
+**Progress:**  
+
+- Improved my ability to work independently and stay aligned with the
+  team through asynchronous updates.
+- Gained more confidence in navigating job market research tools and
+  identifying practical insights for our project.
+- Became more comfortable using GitHub for sharing materials and
+  keeping my contributions transparent.
+
+
   
