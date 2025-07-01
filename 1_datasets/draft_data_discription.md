@@ -1,55 +1,50 @@
-# 📄 INSTRUCTION
+# Instruction  
 
-Hi everyone!  
-Just a quick note on how to use this file while we work on it:
-
-🗓 On **June 28**, we divided our main topic into sub-questions, and now each person is responsible for their assigned
- sub-question — at least for this initial stage. Later on, of course, we’ll all need to understand the full
-picture and how everything connects.
-
-The idea of this document is to track what we have, so we know what kind of insights we can draw later.
+This document serves as our central hub to track progress, consolidate insights, and ensure clarity on available resources.
 
 ---
 
-## 📌 Instructions
+## Contribution Guidelines  
 
-- If you’re working on a sub-question, please add any resources you find.
-- This can be:
-  - A link to a website
-  - Or, if you’ve downloaded a dataset or article and uploaded it to GitHub, please write its name and reference it
-  clearly here.
-- **Important:** For every link or resource you add, please include a short description — what kind of information it
-contains and why it might be useful.
+If you’re working on a sub-question, please follow these steps:  
+
+1. **Add Relevant Resources:**  
+   - This could include links to websites, datasets, or articles.  
+   - If resources are downloaded and uploaded to GitHub, ensure they are named and referenced clearly here.  
+2. **Provide Descriptions:**  
+   - Summarize the content of each resource and explain its relevance to the research.
 
 ---
 
-## 🧩 Sections (for inspiration — optional)
+## Suggested Sections  
+
+You may organize your contributions using these sections or adapt them as needed:  
 
 - Key Questions  
-- Example  
-- Matrix  
-- Suggested Data Sources  
+- Examples  
+- Data Matrices  
+- Recommended Data Sources  
 
-Feel free to adjust or rewrite them if you think it helps your part.  
-In the future, we’ll aim to organize everything in a unified format and style.
-
----
-
-**!!! Since we’re all working on this file remotely from our local machines, please make sure that your file is up to
-date before you start working on it, and that you push any changes to the remote repository once you finish your work or
-complete any stage of it.**
+In later stages, we’ll standardize the format and style across all sections.
 
 ---
 
-## 🧠 Main Research Question
+## Collaboration Guidelines  
 
-> **What are the most accessible and employer-relevant career pathways into the IT sector for young displaced
-individuals without prior tech backgrounds in the U.S., and how do alternative education models compare to formal higher
-education in enabling their employment outcomes?**
+Since this is a shared document, please ensure the following:  
+
+- **Stay Updated:** Sync your local version with the latest changes in the repository before beginning work.  
+- **Push Changes:** After completing your edits or tasks, push the updated file to the repository.  
 
 ---
 
-## 🔍 Sub Questions
+## Main Research Question  
+
+> **What are the most accessible and employer-relevant career pathways into the IT sector for young displaced individuals without prior tech backgrounds in the U.S., and how do alternative education models compare to formal higher education in enabling their employment outcomes?**
+
+---
+
+## Sub Questions  
 
 ---
 
