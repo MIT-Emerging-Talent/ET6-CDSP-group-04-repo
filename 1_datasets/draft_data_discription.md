@@ -406,29 +406,50 @@ segmented by education level such as no college degree, associate’s, bachelor�
 > **Table 18_Race_Ethnicity_and_Post_Bootcamp_Success.csv**  
 This dataset examines post-bootcamp results by race and ethnicity. For each group, it reports pre- and post-bootcamp
 average salaries, employment rates, and salary lift.
-
-**Table 19_Gender_and_Post_Bootcamp_Success.csv**  
+>
+>**Table 19_Gender_and_Post_Bootcamp_Success.csv**  
 This file compares bootcamp outcomes by gender. It includes data on average salaries before and after the bootcamp,
 employment rates, and salary lift for males and females.
-
-**Table 20_Programming_Language_and_Post-Bootcamp.csv**  
+>
+>**Table 20_Programming_Language_and_Post-Bootcamp.csv**  
 This dataset links the programming language studied during the bootcamp to post-bootcamp salary and employment outcomes.
 For each language, it provides pre- and post-bootcamp salary averages, employment rates, and salary lift.
-
-**Table 21_Location_and_Post_Bootcamp_Success.csv**  
+>
+>**Table 21_Location_and_Post_Bootcamp_Success.csv**  
 This file compares post-bootcamp outcomes by city and region. It includes data on average salaries before and after the
 bootcamp, employment rates, and salary lift for each location.
-
-**Bootcamp-Duration-and-Post-Bootcamp-Success.csv**  
+>
+>**Bootcamp-Duration-and-Post-Bootcamp-Success.csv**  
 This dataset analyzes the effect of bootcamp duration on post-bootcamp salary and employment. For each duration category
 (such as 8 weeks, 12 weeks, and 16+ weeks), it reports the post-bootcamp average salary, employment rate, and salary lift.
-
----
-
-## Key Metrics in Each Dataset
-
-- **Pre-bootcamp Salary:** The average salary before
-
+>
+>**Pathway-Pre-TrainingSalary-Post-TrainingSalary-Employed-SalaryLift-TimetoEmployment-KeyDemographicFactors.csv**
+>
+> - Notes:
+Salary Ranges: Online course salaries vary by platform/completion
+Bootcamp Demographics: Data from Tables 16-21 shows:
+Lowest prior earners (≤$30K) gain most (+200%)
+Non-degree holders outperform associate's degree holders in salary growth
+12-16 week programs yield highest employment (90%)
+College Data: Based on 2023 US graduate surveys (Career Karma, BLS)
+>
+> - Key Insights from Data
+> - - Employment Timelines
+Bootcamps: 57% secure jobs within 6 months (31% in ≤3 months)
+Online Learners: 30% of unemployed find jobs post-training
+College: 68% placement rate for CS graduates
+>
+>**IT_Career_Outcomes_USA_Combined_By_EducationType_Demographics.csv**
+>This CSV table provides a unified dataset summarizing IT career outcomes for graduates of coding bootcamps, online
+platforms, and higher education in the USA, with a focus on those entering the field without prior experience. Each row
+represents a specific analysis group (such as education level, ethnicity, gender, programming language, city, income
+bracket, or program duration) and includes the following key metrics:
+>
+> - Pre-Training Salary (USD): Average salary before training (where available)
+> - Post-Training Salary (USD): Average salary after completing the program
+> - % Employed: Percentage of graduates employed after training
+> - % Salary Lift: Percentage increase in salary after training
+>
 ---
 
 ## 5. Employer Perceptions and Success Factors (Nelson + Simi)
