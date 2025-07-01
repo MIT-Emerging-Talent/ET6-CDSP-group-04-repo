@@ -88,6 +88,7 @@ _Subquestion Focus:_ Employment Outcomes by Pathway
 _Contribution Summary:_  
 Analyzed employment and salary outcomes based on training type (bootcamp vs.  
 college). Focused on post-training job timing and demographic variation.
+Output:`cleaned_data/cleaned_IT_Career_Outcomes_USA_Combined_By_EducationType_Demographics.csv`
 
 ---
 
