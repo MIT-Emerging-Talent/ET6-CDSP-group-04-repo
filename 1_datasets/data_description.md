@@ -296,7 +296,7 @@ Not statistically representative; qualitative insights
 
 ---
 
-## 3. Education Models and Accessibility (Yuriy)
+## 3. Education Models and Accessibility (Yuri)
 
 ### Key Questions 3
 
@@ -317,12 +317,38 @@ Not statistically representative; qualitative insights
 - Bootcamp outcome reports (e.g., CIRR)  
 - edX / Coursera data  
 
-### TEAM DATA SOURCES 3
+#### TEAM DATA SOURCES 3
 
-- UNHCR’s 2024 Education Report  
-- *Education 2030: A Strategy for Refugee Education*  
-- *Displaced Students on U.S. Campuses*  
-- *(Add more as needed)*
+- UNHCR’s 2024 Education Report
+- Education 2030: A Strategy for Refugee Education
+- Displaced Students on U.S. Campuses
+- [raw_us_it_programs.csv – GitHub](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-04-repo/blob/main/1_datasets/raw_data/raw_us_it_programs.csv)
+
+**Description:**  
+This custom dataset includes 150 curated IT education programs from universities, bootcamps, and online platforms across
+ the U.S., focused on training pathways potentially accessible to displaced youth.
+
+Each record contains:
+
+- **Provider**, **Program Title**, and **Focus Area**
+- **Format** (In-person, Online, Hybrid)
+- **Length** and **Cost (USD)**
+- **Credential Type** (e.g., Certificate, Bachelor's, Master's)
+- **Completion Rate** (if known)
+- Flags for:
+  - **Entry-Level Friendly**
+  - **Accessibility** (Online or Free availability)
+- **Source Link** (official website)
+- **Source Type** (e.g., University, Bootcamp, Support Organization)
+
+This dataset allows for comparative analysis of cost, length, access level, and learner eligibility criteria, helping us
+evaluate which models are most accessible and effective for displaced learners.
+
+Due to size, direct links to each provider are embedded in the `Source Link` column within the CSV.
+
+**Planned Use:**  
+To identify patterns in cost, accessibility, and completion outcomes across different training models, with the goal of
+recommending the most inclusive and effective options for displaced youth.
 
 ---
 
