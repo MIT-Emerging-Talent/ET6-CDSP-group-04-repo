@@ -101,48 +101,47 @@ A detailed checklist for each milestone is available in the
 
 ## Setup
 
-1. Clone this repository:
+- Clone this repository:
 
    ```bash
    git clone https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-04-repo.git
    cd ET6-CDSP-group-04-repo
 
-2. (Recommended) Create a virtual environment:
-
-    ```bash
-    python -m venv .venv
-    ```
-
-Activate it:
-
-- macOS/Linux:
+- (Recommended) Create a virtual environment:
 
    ```bash
-    source .venv/bin/activate
+    python -m venv .venv
 
-- Windows CMD:
+- Activate it:
 
-  ```bash
-  .venv\Scripts\activate
+  - macOS/Linux:
 
-- Windows PowerShell:
+     ```bash
+      source .venv/bin/activate
+
+  - Windows CMD:
 
     ```bash
-    .venv\Scripts\Activate.ps1
+    .venv\Scripts\activate
 
-3. Install dependencies:
+  - Windows PowerShell:
+
+      ```bash
+      .venv\Scripts\Activate.ps1
+
+- Install dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-4. (Optional) Register the environment for use in Jupyter:
+- (Optional) Register the environment for use in Jupyter:
 
      ```bash
     pip install ipykernel
     python -m ipykernel install --user --name=.venv --display-name "Python (.venv)"
 
-5. Set up your development environment following our contribution guidelines
+- Set up your development environment following our contribution guidelines
 
 ---
 

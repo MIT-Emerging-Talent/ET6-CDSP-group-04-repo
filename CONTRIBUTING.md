@@ -12,35 +12,35 @@ guidelines before starting any task or submitting a pull request.
 
 To keep our project dependencies organized and avoid conflicts, please use a virtual environment:
 
-1. Create a virtual environment:
+- Create a virtual environment:
 
    ```bash
     python -m venv .venv
 
-2. Activate it:
+- Activate it:
 
-- macOS/Linux:
+  - macOS/Linux:
 
-   ```bash
-    source .venv/bin/activate
+     ```bash
+      source .venv/bin/activate
 
-- Windows CMD:
-
-  ```bash
-  .venv\Scripts\activate
-
-- Windows PowerShell:
+  - Windows CMD:
 
     ```bash
-    .venv\Scripts\Activate.ps1
+    .venv\Scripts\activate
 
-3. Install dependencies:
+  - Windows PowerShell:
+
+      ```bash
+      .venv\Scripts\Activate.ps1
+
+- Install dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-4. (Optional) Register the environment for use in Jupyter:
+- (Optional) Register the environment for use in Jupyter:
 
      ```bash
     pip install ipykernel
