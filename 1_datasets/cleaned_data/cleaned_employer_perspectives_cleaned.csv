@@ -1,0 +1,151 @@
+company_sector,preferred_candidate_background,willing_to_hire_without_degree?,most_valued_program_feature,employer_satisfaction_score,top_hiring_concern
+Tech,Online‑only,Yes,Mentorship,8,Job Readiness
+Consulting,Online‑only,Yes,Internship,8,Job Readiness
+Finance,Online‑only,No,Internship,9,Communication
+Non‑profit,College,No,Job Guarantee,6,Technical Gaps
+Consulting,Bootcamp,No,Internship,7,Job Readiness
+Education,College,Yes,Mentorship,6,Job Readiness
+Finance,College,Yes,Job Guarantee,8,Communication
+Non‑profit,College,No,Internship,8,Technical Gaps
+Finance,Bootcamp,Yes,Internship,8,Technical Gaps
+Non‑profit,College,No,Mentorship,7,Technical Gaps
+Tech,Bootcamp,No,Internship,8,Technical Gaps
+Finance,College,Yes,Mentorship,7,Job Readiness
+Retail,Online‑only,No,Mentorship,8,Communication
+Consulting,Bootcamp,Yes,Internship,9,Job Readiness
+Manufacturing,Online‑only,No,Internship,8,Communication
+Tech,Online‑only,Yes,Job Guarantee,5,Job Readiness
+Consulting,College,Yes,Internship,9,Job Readiness
+Retail,Bootcamp,Yes,Job Guarantee,8,Job Readiness
+Tech,College,No,Mentorship,7,Communication
+Tech,College,Yes,Mentorship,8,Technical Gaps
+Government,Online‑only,No,Mentorship,7,Communication
+Non‑profit,Online‑only,No,Internship,7,Technical Gaps
+Education,Online‑only,No,Mentorship,10,Technical Gaps
+Education,College,Yes,Mentorship,9,Communication
+Healthcare,Bootcamp,Yes,Internship,6,Technical Gaps
+Manufacturing,College,Yes,Internship,9,Technical Gaps
+Tech,Bootcamp,Yes,Job Guarantee,9,Technical Gaps
+Education,Bootcamp,No,Internship,7,Technical Gaps
+Education,College,Yes,Mentorship,7,Technical Gaps
+Non‑profit,Bootcamp,No,Job Guarantee,7,Technical Gaps
+Tech,Online‑only,Yes,Mentorship,6,Technical Gaps
+Education,Bootcamp,Yes,Mentorship,8,Communication
+Tech,Online‑only,No,Internship,7,Job Readiness
+Government,Online‑only,No,Mentorship,7,Technical Gaps
+Education,College,Yes,Job Guarantee,8,Technical Gaps
+Government,Online‑only,Yes,Internship,8,Technical Gaps
+Tech,Online‑only,Yes,Internship,8,Communication
+Tech,Bootcamp,No,Internship,8,Communication
+Finance,Online‑only,Yes,Internship,10,Job Readiness
+Healthcare,Bootcamp,No,Mentorship,7,Technical Gaps
+Government,Online‑only,No,Mentorship,10,Technical Gaps
+Healthcare,College,No,Mentorship,7,Communication
+Manufacturing,College,No,Internship,8,Job Readiness
+Tech,Bootcamp,No,Mentorship,8,Job Readiness
+Tech,College,No,Job Guarantee,8,Job Readiness
+Tech,Bootcamp,Yes,Mentorship,7,Technical Gaps
+Non‑profit,Online‑only,Yes,Internship,7,Technical Gaps
+Tech,Online‑only,No,Job Guarantee,6,Communication
+Finance,College,Yes,Internship,5,Communication
+Retail,Online‑only,Yes,Job Guarantee,9,Communication
+Tech,College,Yes,Job Guarantee,8,Job Readiness
+Healthcare,Online‑only,Yes,Internship,9,Job Readiness
+Government,College,Yes,Internship,5,Technical Gaps
+Finance,Online‑only,Yes,Internship,8,Job Readiness
+Tech,Bootcamp,Yes,Internship,6,Job Readiness
+Finance,College,Yes,Internship,10,Technical Gaps
+Government,Bootcamp,No,Mentorship,9,Technical Gaps
+Tech,Online‑only,Yes,Internship,7,Communication
+Tech,Bootcamp,Yes,Internship,8,Job Readiness
+Finance,College,No,Internship,8,Communication
+Tech,Online‑only,No,Internship,9,Technical Gaps
+Non‑profit,College,Yes,Internship,6,Job Readiness
+Finance,Bootcamp,Yes,Mentorship,10,Technical Gaps
+Retail,College,Yes,Mentorship,9,Job Readiness
+Government,College,Yes,Job Guarantee,8,Technical Gaps
+Finance,Bootcamp,Yes,Internship,6,Technical Gaps
+Retail,Bootcamp,No,Internship,7,Communication
+Retail,Online‑only,Yes,Internship,8,Job Readiness
+Finance,Online‑only,Yes,Mentorship,5,Technical Gaps
+Manufacturing,College,Yes,Internship,8,Technical Gaps
+Tech,College,Yes,Job Guarantee,7,Technical Gaps
+Government,Bootcamp,Yes,Internship,8,Job Readiness
+Consulting,Bootcamp,No,Internship,7,Job Readiness
+Tech,Online‑only,No,Job Guarantee,6,Job Readiness
+Healthcare,Online‑only,Yes,Internship,7,Technical Gaps
+Manufacturing,College,No,Job Guarantee,7,Technical Gaps
+Education,Bootcamp,No,Mentorship,8,Technical Gaps
+Retail,College,Yes,Mentorship,6,Technical Gaps
+Manufacturing,College,No,Mentorship,8,Job Readiness
+Tech,College,Yes,Job Guarantee,8,Technical Gaps
+Finance,College,Yes,Mentorship,8,Communication
+Government,College,Yes,Mentorship,10,Job Readiness
+Tech,College,Yes,Internship,7,Technical Gaps
+Tech,College,Yes,Internship,9,Communication
+Tech,Online‑only,Yes,Job Guarantee,9,Communication
+Tech,Bootcamp,Yes,Mentorship,7,Communication
+Non‑profit,Bootcamp,Yes,Internship,8,Technical Gaps
+Tech,Online‑only,Yes,Mentorship,8,Job Readiness
+Manufacturing,Online‑only,Yes,Job Guarantee,5,Technical Gaps
+Retail,Online‑only,No,Mentorship,6,Job Readiness
+Tech,College,Yes,Internship,4,Technical Gaps
+Government,Bootcamp,No,Job Guarantee,5,Technical Gaps
+Tech,Online‑only,Yes,Mentorship,3,Technical Gaps
+Tech,Online‑only,No,Job Guarantee,10,Job Readiness
+Manufacturing,Bootcamp,Yes,Internship,7,Communication
+Government,College,Yes,Internship,6,Job Readiness
+Tech,College,Yes,Internship,8,Technical Gaps
+Tech,Online‑only,Yes,Job Guarantee,7,Technical Gaps
+Tech,College,Yes,Mentorship,9,Communication
+Tech,College,No,Internship,5,Communication
+Education,Online‑only,Yes,Internship,7,Technical Gaps
+Manufacturing,Bootcamp,Yes,Job Guarantee,8,Communication
+Tech,Bootcamp,No,Internship,7,Technical Gaps
+Tech,Online‑only,Yes,Internship,7,Technical Gaps
+Education,Bootcamp,Yes,Mentorship,9,Technical Gaps
+Healthcare,Online‑only,No,Mentorship,6,Job Readiness
+Tech,Bootcamp,Yes,Internship,7,Communication
+Manufacturing,Bootcamp,No,Mentorship,5,Technical Gaps
+Tech,College,No,Internship,9,Job Readiness
+Non‑profit,Bootcamp,Yes,Mentorship,10,Technical Gaps
+Tech,College,Yes,Mentorship,8,Technical Gaps
+Healthcare,Online‑only,Yes,Internship,10,Technical Gaps
+Non‑profit,Online‑only,Yes,Mentorship,8,Job Readiness
+Government,Online‑only,No,Internship,8,Job Readiness
+Tech,College,Yes,Mentorship,7,Technical Gaps
+Retail,College,No,Mentorship,8,Technical Gaps
+Tech,College,No,Internship,8,Technical Gaps
+Tech,Bootcamp,No,Mentorship,8,Communication
+Tech,Online‑only,No,Internship,9,Job Readiness
+Tech,Bootcamp,Yes,Internship,9,Communication
+Retail,College,No,Mentorship,8,Job Readiness
+Education,Bootcamp,Yes,Internship,9,Job Readiness
+Non‑profit,Bootcamp,No,Mentorship,7,Job Readiness
+Finance,Online‑only,Yes,Mentorship,7,Job Readiness
+Education,Bootcamp,No,Job Guarantee,10,Communication
+Consulting,College,Yes,Internship,6,Job Readiness
+Non‑profit,Bootcamp,No,Job Guarantee,10,Job Readiness
+Government,Bootcamp,No,Mentorship,9,Communication
+Tech,Bootcamp,Yes,Internship,9,Technical Gaps
+Finance,Bootcamp,No,Mentorship,7,Technical Gaps
+Government,Bootcamp,No,Internship,5,Job Readiness
+Tech,Online‑only,No,Internship,8,Technical Gaps
+Healthcare,Bootcamp,No,Mentorship,7,Technical Gaps
+Tech,Bootcamp,Yes,Internship,7,Job Readiness
+Healthcare,College,Yes,Internship,9,Job Readiness
+Tech,Online‑only,Yes,Mentorship,6,Communication
+Healthcare,Online‑only,Yes,Job Guarantee,7,Technical Gaps
+Tech,Online‑only,Yes,Job Guarantee,10,Job Readiness
+Tech,Bootcamp,Yes,Mentorship,5,Technical Gaps
+Tech,College,Yes,Mentorship,6,Job Readiness
+Tech,College,Yes,Mentorship,7,Job Readiness
+Non‑profit,College,Yes,Internship,7,Job Readiness
+Government,College,Yes,Job Guarantee,6,Technical Gaps
+Tech,Online‑only,No,Job Guarantee,4,Technical Gaps
+Retail,College,No,Internship,7,Job Readiness
+Government,Bootcamp,Yes,Internship,9,Job Readiness
+Healthcare,College,Yes,Internship,6,Job Readiness
+Government,Bootcamp,Yes,Mentorship,7,Job Readiness
+Consulting,Bootcamp,No,Internship,6,Technical Gaps
+Retail,College,Yes,Internship,5,Technical Gaps
