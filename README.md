@@ -1,4 +1,4 @@
-# SKAJEN
+# SKAJYN
 
  Skajen is a collaborative group formed by A combo of amazing individuals
   with super powers that redefine the true meaning of team work.
