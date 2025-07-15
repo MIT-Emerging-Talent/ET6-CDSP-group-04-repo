@@ -8,6 +8,46 @@ guidelines before starting any task or submitting a pull request.
 
 ---
 
+## Setup and Environment
+
+To keep our project dependencies organized and avoid conflicts, please use a virtual environment:
+
+- Create a virtual environment:
+
+   ```bash
+    python -m venv .venv
+
+- Activate it:
+
+  - macOS/Linux:
+
+     ```bash
+      source .venv/bin/activate
+
+  - Windows CMD:
+
+    ```bash
+    .venv\Scripts\activate
+
+  - Windows PowerShell:
+
+      ```bash
+      .venv\Scripts\Activate.ps1
+
+- Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+- (Optional) Register the environment for use in Jupyter:
+
+     ```bash
+    pip install ipykernel
+    python -m ipykernel install --user --name=.venv --display-name "Python (.venv)"
+
+---
+
 ## General Workflow
 
 - We use **GitHub Issues** and a **project board** to track progress.
@@ -81,6 +121,7 @@ Before creating or merging a PR, make sure you:
 - [ ] Updated the issue status on the board (In Progress / Done).
 - [ ] Used labels like `team-input-needed` if collaboration is required.
 - [ ] Confirmed that all comments, suggestions, or change requests have been addressed before merging.
+- [ ] Confirmed you are working inside the project’s virtual environment with all dependencies installed.
 
 ---
 

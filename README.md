@@ -89,7 +89,7 @@ A detailed checklist for each milestone is available in the
 - **Learning Outcomes**: Demonstrated growth in data science skills
 - **Innovation Potential**: Identification of future opportunities
 
- ---
+---
 
 ## Prerequisites
 
@@ -97,28 +97,52 @@ A detailed checklist for each milestone is available in the
 - Git
 - Notebook environment (Jupyter, VS Code, Colab, etc.)
 
+---
+
 ## Setup
 
-1. Clone this repository:
+- Clone this repository:
 
    ```bash
    git clone https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-04-repo.git
    cd ET6-CDSP-group-04-repo
-   ```
 
-2. Install dependencies:
+- (Recommended) Create a virtual environment:
 
    ```bash
-   pip install -r requirements.txt
-   ```
+    python -m venv .venv
 
-3. Set up your development environment following our [contribution guidelines](docs/CONTRIBUTING.md)
+- Activate it:
 
-## 📝 License
+  - macOS/Linux:
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
-for details.
+     ```bash
+      source .venv/bin/activate
+
+  - Windows CMD:
+
+    ```bash
+    .venv\Scripts\activate
+
+  - Windows PowerShell:
+
+      ```bash
+      .venv\Scripts\Activate.ps1
+
+- Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+- (Optional) Register the environment for use in Jupyter:
+
+     ```bash
+    pip install ipykernel
+    python -m ipykernel install --user --name=.venv --display-name "Python (.venv)"
+
+- Set up your development environment following our contribution guidelines
 
 ---
 
-🗓️ *Last Updated*: 16th June 2025
+🗓️ *Last Updated*: 10th July 2025
