@@ -50,7 +50,6 @@ def extract_education_details(matches):
 def extract_experience_details(matches):
     position = company = start = end = "N/A"
     date_pattern = r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)\s+\d{4}"
-    date_range_pattern = re.compile(rf"{date_pattern}\s*-\s*(Present|{date_pattern})")
 
     for i, text in enumerate(matches):
         if re.search(
