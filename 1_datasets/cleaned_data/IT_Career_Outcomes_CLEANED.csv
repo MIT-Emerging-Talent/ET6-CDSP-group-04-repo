@@ -1,0 +1,58 @@
+Program_Type,Platform,Segment,Group,Salary_Before,Salary_After,Employment_Rate,Salary_Lift(%),Employment_Lag_Months,Sample_Size,Notes,Salary_Change
+Bootcamp,All Bootcamps,Education,No college degree,34869.0,61836.0,83.0,77.0,,,,26967.0
+Bootcamp,All Bootcamps,Education,Associate's degree,41591.0,57762.0,82.0,39.0,,,,16171.0
+Bootcamp,All Bootcamps,Education,Bachelor's degree,45266.0,71267.0,90.0,57.0,,,,26001.0
+Bootcamp,All Bootcamps,Education,Master's degree,54498.0,74774.0,88.0,37.0,,,,20276.0
+Bootcamp,All Bootcamps,Education,Professional degree,64870.0,66619.0,96.0,3.0,,,,1749.0
+Bootcamp,All Bootcamps,Education,Doctorate degree,69654.0,83250.0,92.0,20.0,,,,13596.0
+Bootcamp,All Bootcamps,Ethnicity,White,44712.0,68532.0,90.0,53.0,,,,23820.0
+Bootcamp,All Bootcamps,Ethnicity,Hispanic,44861.0,65219.0,84.0,45.0,,,,20358.0
+Bootcamp,All Bootcamps,Ethnicity,Asian,47084.0,75617.0,86.0,61.0,,,,28533.0
+Bootcamp,All Bootcamps,Ethnicity,Native/Pacific Islander,41211.0,69909.0,84.0,70.0,,,,28698.0
+Bootcamp,All Bootcamps,Ethnicity,Black/African American,43078.0,64081.0,77.0,49.0,,,,21003.0
+Bootcamp,All Bootcamps,Ethnicity,Other,38540.0,64388.0,82.0,67.0,,,,25848.0
+Bootcamp,All Bootcamps,Gender,Male,44760.0,69648.0,86.0,59.0,,,,24888.0
+Bootcamp,All Bootcamps,Gender,Female,45236.0,69096.0,88.0,53.0,,,,23860.0
+Bootcamp,All Bootcamps,Language,Swift,47000.0,90500.0,50.0,93.0,,,,43500.0
+Bootcamp,All Bootcamps,Language,Ruby on Rails,46618.0,81111.0,95.0,74.0,,,,34493.0
+Bootcamp,All Bootcamps,Language,Python,54910.0,78604.0,74.0,43.0,,,,23694.0
+Bootcamp,All Bootcamps,Language,JavaScript,44639.0,67325.0,85.0,51.0,,,,22686.0
+Bootcamp,All Bootcamps,Language,Java,41129.0,64719.0,92.0,57.0,,,,23590.0
+Bootcamp,All Bootcamps,Language,C#/.NET,40729.0,59752.0,92.0,47.0,,,,19023.0
+Bootcamp,All Bootcamps,Language,Objective-C,42500.0,58000.0,100.0,36.0,,,,15500.0
+Bootcamp,All Bootcamps,Language,PHP,46900.0,51867.0,100.0,11.0,,,,4967.0
+Bootcamp,All Bootcamps,Language,Visual Basic,39500.0,40000.0,75.0,1.0,,,,500.0
+Bootcamp,All Bootcamps,Location,San Francisco,51370.0,97666.0,92.0,90.0,,,,46296.0
+Bootcamp,All Bootcamps,Location,Seattle,52101.0,88586.0,87.0,70.0,,,,36485.0
+Bootcamp,All Bootcamps,Location,New York,49483.0,87205.0,83.0,76.0,,,,37722.0
+Bootcamp,All Bootcamps,Location,Denver,46053.0,80183.0,95.0,74.0,,,,34130.0
+Bootcamp,All Bootcamps,Location,Boston,52503.0,73728.0,93.0,40.0,,,,21225.0
+Bootcamp,All Bootcamps,Location,Atlanta,46902.0,71263.0,86.0,52.0,,,,24361.0
+Bootcamp,All Bootcamps,Location,Los Angeles,41850.0,70500.0,89.0,68.0,,,,28650.0
+Bootcamp,All Bootcamps,Location,Washington DC,45632.0,68720.0,91.0,51.0,,,,23088.0
+Bootcamp,All Bootcamps,Location,Minneapolis,38614.0,67278.0,94.0,74.0,,,,28664.0
+Bootcamp,All Bootcamps,Location,Columbus,42284.0,66975.0,97.0,58.0,,,,24691.0
+Bootcamp,All Bootcamps,Location,Houston,48688.0,65828.0,79.0,35.0,,,,17140.0
+Bootcamp,All Bootcamps,Location,Chicago,47047.0,65238.0,79.0,39.0,,,,18191.0
+Bootcamp,All Bootcamps,Location,Portland,39629.0,64167.0,83.0,62.0,,,,24538.0
+Bootcamp,All Bootcamps,Location,Nashville,35454.0,63820.0,100.0,80.0,,,,28366.0
+Bootcamp,All Bootcamps,Location,Saint Louis,41744.0,60789.0,84.0,46.0,,,,19045.0
+Bootcamp,All Bootcamps,Location,Cleveland,37293.0,59237.0,91.0,59.0,,,,21944.0
+Bootcamp,All Bootcamps,Location,Pittsburgh,39756.0,58960.0,94.0,48.0,,,,19204.0
+Bootcamp,All Bootcamps,Location,Cincinnati,41617.0,58894.0,93.0,42.0,,,,17277.0
+Bootcamp,All Bootcamps,Location,San Antonio,45159.0,58313.0,93.0,29.0,,,,13154.0
+Bootcamp,All Bootcamps,Location,Miami,46840.0,55433.0,78.0,18.0,,,,8593.0
+Bootcamp,All Bootcamps,Location,Indianapolis,37574.0,49530.0,70.0,32.0,,,,11956.0
+Bootcamp,All Bootcamps,Location,Toronto,36964.0,45214.0,81.0,22.0,,,,8250.0
+Bootcamp,All Bootcamps,Location,Vancouver,32068.0,38831.0,84.0,21.0,,,,6763.0
+Bootcamp,All Bootcamps,Location,Montreal,27293.0,35884.0,93.0,31.0,,,,8591.0
+Bootcamp,All Bootcamps,Prior Income,"<= $30,000",20551.0,61745.0,86.0,200.0,,,,41194.0
+Bootcamp,All Bootcamps,Prior Income,"$30,000 – $40,000",36586.0,67238.0,89.0,84.0,,,,30652.0
+Bootcamp,All Bootcamps,Prior Income,"$40,000 – $60,000",50875.0,70113.0,90.0,38.0,,,,19238.0
+Bootcamp,All Bootcamps,Prior Income,"> $60,000",86829.0,83323.0,89.0,-4.0,,,,-3506.0
+Bootcamp,All Bootcamps,Duration,8 Weeks,,60189.0,82.0,47.0,,,,
+Bootcamp,All Bootcamps,Duration,12 Weeks,,70497.0,90.0,57.0,,,,
+Bootcamp,All Bootcamps,Duration,16+ Weeks,,72693.0,90.0,59.0,,,,
+Online Platform,Coursera,General,All backgrounds,,55000.0,60.0,,,,60% of previously unemployed US learners found a job after completing a program; 77% report career benefits; 25% of entry-level certificate completers land a new job,
+Online Platform,Google IT Support Certificate,General,All backgrounds,,65000.0,75.0,,,,"75% report positive career outcome within 6 months; median entry salary $65,000",
+Higher Education,University,CS Degree,Bachelor's,,60000.0,68.0,,,,"68% placement rate for CS grads in US; median starting salary $60,000",
