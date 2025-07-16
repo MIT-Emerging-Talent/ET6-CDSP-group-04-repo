@@ -50,7 +50,7 @@ async def simulate_mouse_hover(profile):
             hovered += 1
             if hovered >= random.randint(2, 3):
                 break
-        except:
+        except Exception:
             continue
 
 
