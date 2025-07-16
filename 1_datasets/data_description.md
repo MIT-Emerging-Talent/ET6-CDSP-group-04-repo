@@ -501,30 +501,35 @@ Unified dataset summary of IT career outcomes segmented by education type, demog
 
 - ***Data_cleaning_employer_it_education.ipynb***
 
-   This notebook includes fields on employer preferences and satisfaction scores across eduction backgrounds
+   This notebook includes fields on employer preferences and satisfaction scores across education backgrounds  
+   **[Link to Notebook](/raw_data/Data_cleaning_employer_it_education.ipynb)**
 
 - ***Skills based Hiring Report***
-  
-  This project report serves as both a strategic framework
-  and a call to action for transitioning from degree-based
-  hiring to evidence-driven, competency-based models.
+
+   This project report serves as both a strategic framework  
+   and a call to action for transitioning from degree-based  
+   hiring to evidence-driven, competency-based models.  
+   **[Link to Report](/raw_data/Skills_Based_Hiring_Report.pdf)**
 
 - ***Use case for enabling the future of skill based hiring report***
-  
-  This report builds on the original SBHA project, illustrating
-  aspirational use cases tailored for education and training providers
-  (including employers-as-trainers). It highlights end-to-end processes
-  where providers can enable skills-based hiring and career advancement,
-  pinpointing potential failure points and mitigation strategies. It’s designed
-  to guide policymakers, workforce intermediaries, researchers, quality assurance
-  bodies, tech vendors, and employers who act as learning providers
+
+   This report builds on the original SBHA project, illustrating  
+   aspirational use cases tailored for education and training providers  
+   (including employers-as-trainers). It highlights end-to-end processes  
+   where providers can enable skills-based hiring and career advancement,  
+   pinpointing potential failure points and mitigation strategies. It’s designed  
+   to guide policymakers, workforce intermediaries, researchers, quality assurance  
+   bodies, tech vendors, and employers who act as learning providers  
+   **[Link to Report](/raw_data/Use_Case_for_Skills_Based_Hiring.pdf)**
 
 - ***Skills or Degree article?***
-  This research study investigates whether employers in the UK are
-  shifting from traditional degree-based hiring toward skills-based
-  hiring, especially for roles in Artificial Intelligence (AI) and
-  green jobs (i.e., sustainability-focused work). Using a dataset
-  of 11 million online job vacancies from 2018 to 2024, the authors
-  assess trends in job requirements, skill demands, and associated wage premiums.
+
+   This research study investigates whether employers in the UK are  
+   shifting from traditional degree-based hiring toward skills-based  
+   hiring, especially for roles in Artificial Intelligence (AI) and  
+   green jobs (i.e., sustainability-focused work). Using a dataset  
+   of 11 million online job vacancies from 2018 to 2024, the authors  
+   assess trends in job requirements, skill demands, and associated wage premiums.  
+   **[Link to Article](/raw_data/Skills_or_Degree_Article.pdf)**
 
 ---
