@@ -7,7 +7,8 @@ This folder contains all analysis and modeling work for Milestone 3 of the proje
 
 ## 🎯 Milestone Goal
 
-To analyze how different educational backgrounds (traditional, bootcamp, nonprofit, online) correlate with employment outcomes in IT, based on structured LinkedIn profile data.
+To analyze how different educational backgrounds (traditional, bootcamp, nonprofit, online) correlate with employment
+outcomes in IT, based on structured LinkedIn profile data.
 
 ---
 
@@ -55,6 +56,7 @@ _Support role:_ Reviewed limitations and comparative trends across roles
 **Yuri Spizhovyi**  
 _Subquestion Focus:_ Education vs. Job Role Correlation  
 _Contribution Summary:_  
+
 - Cleaned and engineered features in `cleaned_linkedin_profiles.csv`  
 - Built `education_employment_analysis.ipynb` notebook  
 - Performed visual and statistical analysis of job outcomes  
