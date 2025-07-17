@@ -95,17 +95,20 @@ Output:`cleaned_data/cleaned_IT_Career_Outcomes_USA_Combined_By_EducationType_De
 **Yuri Spizhovyi**  
 _Subquestion Focus:_ Education Models & Accessibility AND Career Pathways via LinkedIn  
 _Contribution Summary:_  
+
 1. **Education Programs:**  
-   Collected and cleaned a dataset of U.S.-based IT training programs (bootcamps, colleges, support orgs). Normalized cost, duration, and access features using  
+   Collected and cleaned a dataset of U.S.-based IT training programs (bootcamps, colleges, support orgs). Normalized
+   cost, duration, and access features using  
    `data_cleaning_us_it_programs.ipynb`.  
    Outputs: `raw_us_it_programs.csv`, `cleaned_us_it_programs.csv`
 
 2. **Career Pathways via LinkedIn:**  
    Developed a custom Playwright-based scraper to extract full HTML profiles from LinkedIn.  
-   Parsed profiles into structured data (`linkedin_raw_hidden_content.csv`) using `li_profile_parser.py` and cleaned the data in  
-   `linkedin_data_cleaning_analysis.ipynb`.  
+   Parsed profiles into structured data (`linkedin_raw_hidden_content.csv`) using `li_profile_parser.py` and cleaned the
+   data in  `linkedin_data_cleaning_analysis.ipynb`.  
    Final outputs: `linkedin_cleaned.csv`, plus supporting logs and documentation.  
-   Added README documentation in `/data` describing data source, limitations (e.g., scraping bias, partial education fields), and a public dataset link via Google Drive.
+   Added README documentation in `/data` describing data source, limitations (e.g., scraping bias, partial education
+   fields), and a public dataset link via Google Drive.
 
 > 📌 All cleaned datasets are located in `/1_datasets/cleaned_data/`. Cleaning notebooks are stored in `/2_data_preparation/`.
 
