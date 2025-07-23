@@ -48,8 +48,19 @@ _Support role:_ Reviewed career entry paths for QA and Data Analyst roles
 **Shayma Mohamed**  
 _Support role:_ Assisted in data validation and research question alignment
 
+---
+
 **Yevheniia Rudenko**  
-_Support role:_ Reviewed limitations and comparative trends across roles
+_Subquestion Focus:_ Employment & Salary Outcomes by Education Pathway
+_Contribution Summary:_
+
+- Cleaned and prepared datasets comparing Bootcamps, Online Courses, and Colleges
+- Built `data_analysis_on_employment_outcomes_by_education_pathway.ipynb` notebook
+- Analyzed pre- and post-education salary data, employment rates, and salary growth
+- Created all visualizations highlighting differences and trends
+Noted key data limitations and uncertainties in the analysis
+
+📘 Main analysis notebook: `data_analysis_on_employment_outcomes_by_education_pathway.ipynb`
 
 ---
 
