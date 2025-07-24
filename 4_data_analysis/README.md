@@ -92,5 +92,6 @@ _Contribution Summary:_
 ```text
 4_data_analysis/
 │
-├── education_employment_analysis.ipynb   # Main analysis notebook
+├── data_analysis_on_employment_outcomes_by_education_pathway.ipynb  # Main analysis notebook SQ4
+├── education_employment_analysis.ipynb   # Main analysis notebook SQ3
 └── README.md                             # ← This file

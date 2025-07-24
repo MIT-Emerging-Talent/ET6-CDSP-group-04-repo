@@ -144,13 +144,12 @@ ET6-CDSP-GROUP-04-REPO/
 ├── 1_datasets/
 │   ├── raw_data/           # Original source files (not modified)
 │   ├── cleaned_data/       # Final cleaned datasets
-│   └── guide.md            # Guide for dataset use
+│   ├── guide.md            # Guide for dataset use
+│   └── data_description.md # Short summaries of each dataset
 │
 ├── 2_data_preparation/
 │   ├── README.md           # ← This file
 │   ├── guide.md            # How to clean + prepare data
-│   ├── data_documentation.md  # Short summaries of each dataset
-│   ├── draft_data_description.md # Notes and scratch space
 │   └── *.ipynb             # One notebook per team member
 ```
 
@@ -164,4 +163,4 @@ Each member:
 - Collected a relevant dataset
 - Created a notebook with all cleaning steps
 - Produced a final cleaned `.csv`
-- Documented the process in `data_documentation.md`
+- Documented the process in `1_datasets/data_description.md`

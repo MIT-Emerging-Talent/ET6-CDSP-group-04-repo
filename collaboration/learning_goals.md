@@ -55,8 +55,6 @@ as this will be my first time working through the complete data cycle.
 3. Be able to reproduce the lifecycle of this experience
 4. Be able to apply the python and data science classes to this project
 
-### Sara Sahin
-
 ### Shayma Mohamed
 
 1. Learn how to solve real-life problems using data science.

@@ -6,7 +6,7 @@
   Our name symbolizes unity and teamwork as we strive together towards
     excellence in data science.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=00F71E&vCenter=true&width=907&height=60&lines=The+SKAJEN;Solola+-++Shayma+-+Sara+-+Khadija+-+Jenia+-++Nelson)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=00F71E&vCenter=true&width=907&height=60&lines=The+SKAJEN;Solola+-++Shayma+-+Yuri+-+Khadija+-+Jenia+-++Nelson)](https://git.io/typing-svg)
 
    **Collaboration is key, and we never settle for less than the best.
     #WeMove**
@@ -72,7 +72,7 @@ A detailed checklist for each milestone is available in the
 - [Olubusayo Solola](https://github.com/Simi-Solola)
 - [Khadija al Ramlawi](https://github.com/Khadijaramlawi)
 - [Shaima Mohamed](https://github.com/Shaymamohd)
-- [Sara](https://github.com/sara-shahin-cell)
+- [Yuri Spizhovyi](https://github.com/yuri-spizhovyi-mit)
 
 ### 🤝 Collaboration Framework
 
