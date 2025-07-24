@@ -105,8 +105,10 @@ and collaborate effectively in a diverse and dynamic team.
 
 5. Improve my ability to communicate findings to non-technical audiences through clear writing and visual storytelling.
 
-6. Gain experience preparing a professional project presentation that summarizes results, highlights impact, and proposes next steps.
+6. Gain experience preparing a professional project presentation that summarizes results, highlights impact, and
+   proposes next steps.
 
 7. Enhance my GitHub collaboration skills by managing branches, issues, pull requests, and markdown documentation effectively.
 
-8. Take ownership of my self-directed learning by closing knowledge gaps in Python, data visualization, and reporting tools throughout the project.
+8. Take ownership of my self-directed learning by closing knowledge gaps in Python, data visualization, and reporting
+   tools throughout the project.
