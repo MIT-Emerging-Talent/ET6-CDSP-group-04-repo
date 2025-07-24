@@ -13,12 +13,27 @@
 
 ## Communication Schedule
 
-| Day        | How        | The topic of discussion     |
-| :----: | :-: |  ----------------------: |
-| 31.05.2025 | Video call | Finalisation of group norms |
-| 03.06.2025 | Video call | Brainstorming Session       |
-| 09.06.2025 | Video call | Brainstorming Session; Milestone 0 & 1       |
-| 12.06.2025 | Video call | Brainstorming Session; Milestone 0 & 1       |
+| Day        | How        | The topic of discussion                               |
+| :--------: | :--------: | :---------------------------------------------------- |
+| 31.05.2025 | Video call | Finalisation of group norms                           |
+| 03.06.2025 | Video call | Brainstorming Session (Milestone 0: Cross-Cultural Collaboration) |
+| 09.06.2025 | Video call | Brainstorming Session (Milestone 0 & 1: Problem Identification) |
+| 12.06.2025 | Video call | Brainstorming Session (Milestone 0 & 1: Problem Identification) |
+| 16.06.2025 | Video call | Brainstorming Session (Milestone 1: Problem Identification) |
+| 23.06.2025 | Video call | Brainstorming Session (Milestone 2: Data Collection)  |
+| 27.06.2025 | Video call | Brainstorming Session (Milestone 2: Data Collection)  |
+| 28.06.2025 | Video call | Brainstorming Session (Milestone 2: Data Collection)  |
+| 29.06.2025 | Video call | Brainstorming Session (Milestone 2: Data Collection)  |
+| 30.06.2025 | Video call | Brainstorming Session (Milestone 2: Data Collection)  |
+| 04.07.2025 | Video call | Brainstorming Session (Milestone 3: Data Analysis)    |
+| 05.07.2025 | Video call | Brainstorming Session (Milestone 3: Data Analysis)    |
+| 07.07.2025 | Video call | Brainstorming Session (Milestone 3: Data Analysis)    |
+| 11.07.2025 | Video call | Brainstorming Session (Milestone 3: Data Analysis)    |
+| 14.07.2025 | Video call | Brainstorming Session (Milestone 3: Data Analysis)    |
+| 18.07.2025 | Video call | Brainstorming Session (Milestone 3: Data Analysis)    |
+| 21.07.2025 | Video call | Brainstorming Session (Milestone 3: Data Analysis)    |
+| 24.07.2025 | Video call | Brainstorming Session (Milestone 4: Communicating Results) |
+| 25.07.2025 | Video call | Brainstorming Session (Milestone 4: Communicating Results) |
 
 ## Communication Channels
 
@@ -41,7 +56,6 @@ calls can be arranged as needed.
 | Khadija Al Ramlawi   |9AM-2PM|9AM-2PM|9AM-2PM|9AM-2PM|9AM-2PM||9AM-2PM|
 | Nelson Fodjo Kamdoum |10AM-4PM|10AM-4PM|10AM-4PM|10AM-4PM|12PM-4PM|| 2PM-4PM|
 | Olubusayo Solola     |11AM-1PM|12PM-2PM|10AM-12PM|10AM-1PM|||3PM-4PM|
-| Sara Sahin           ||||||||
 | Shayma Mohamed       |12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|
 | Yevheniia Rudenko    |12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM|12PM-4PM||12PM-4PM|
 | Yuri Spizhovyi       |8PM–2AM|8PM–2AM|8PM–2AM|8PM–2AM|8PM–2AM|11AM–11PM|11AM–11PM|
@@ -51,7 +65,6 @@ calls can be arranged as needed.
 - Khadija al Ramlawi: ~5h;
 - Nelson Fodjo Kamdoum: ~5h;
 - Olubusayo Solola: ~2h;
-- Sara Sahin: \_\_;
 - Shayma Mohamed: ~2h;
 - Yevheniia Rudenko: ~4h;
 - Yuri Spizhovyi: ~4h;

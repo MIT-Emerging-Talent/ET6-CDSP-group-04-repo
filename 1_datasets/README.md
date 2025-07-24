@@ -18,7 +18,7 @@ resources, such as original datasets and descriptive metadata, for preprocessing
 
 ## Usage Notes
 
-- Detailed descriptions of each dataset can be found in the `data_discription.md` file located in the `raw_data/` folder.
+- Detailed descriptions of each dataset can be found in the `data_description.md` file located in the `1_datasets/` folder.
 This file contains descriptions of all resources and documents.  
 - Always document any modifications to the files and ensure updates are pushed to the repository.
 

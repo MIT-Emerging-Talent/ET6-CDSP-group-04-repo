@@ -7,7 +7,6 @@
 - **Khadija al Ramlawi**
 - **Nelson Fodjo Kamdoum**
 - **Olubusayo Solola (Simi)**
-- **Sara Şahin**
 - **Shayma Mohamed**
 - **Yevheniia Rudenko**
 - **Yuri Spizhovyi**

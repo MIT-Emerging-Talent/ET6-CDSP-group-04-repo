@@ -269,7 +269,7 @@ Not statistically representative; qualitative insights
 
 ---
 
-## 2. Entry-Level IT Opportunities (Shaima)
+## 2. Entry-Level IT Opportunities ( Shaima )
 
 ### Key Questions 2
 
