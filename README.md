@@ -55,9 +55,9 @@ This project follows the Collaborative Data Science Project (CDSP)
 - Data Analysis – Analyze data and interpret results
   - [Barriers and Demographics Analysis](4_data_analysis/Barriers_and_Demographics_Analysis.ipynb)
   - [Entry-Level IT Opportunities Analysis](//)
-  - [Education Models and Accessibility](4_data_analysis/employer_perception.ipynb)
-  - [Employment Outcomes by Pathway](4_data_analysis/data_analysis_on_employment_outcomes_by_education_pathway.ipynb)
-  - [Employer Perceptions and Success Factors](4_data_analysis/education_employment_analysis.ipynb)
+  - [Education Models and Accessibility Analysis](4_data_analysis/employer_perception.ipynb)
+  - [Employment Outcomes by Pathway Analysis](4_data_analysis/data_analysis_on_employment_outcomes_by_education_pathway.ipynb)
+  - [Employer Perceptions and Success Factors Analysis](4_data_analysis/education_employment_analysis.ipynb)
   - Milestone 3 [Retrospective](collaboration/retrospectives/3_data_analysis.md)
 - Communicating Results – Prepare materials for a target audience
   - Milestone 4 [Retrospective](collaboration/retrospectives/4_communicating_results.md)
