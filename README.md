@@ -25,6 +25,20 @@ tech experience — can access sustainable IT careers. We compare formal pathway
 options such as bootcamps and online certifications to identify the most accessible,
 supportive, and employer-relevant routes.
 
+### 🧩 Research Structure
+
+To effectively explore our central question — we divided it into five sub-questions, each explored by a team member:
+
+| Sub-question| Description|Lead|
+|------------------------------------------|---------------------------------------------------------------|-------------------------------------------|
+|**Barriers and Demographics**| Social and systemic barriers for displaced youth| Khadija al Ramlawi|
+|**Entry-Level IT Opportunities**| Types and requirements of available jobs| Shaima Mohamed|
+|**Education Models and Accessibility**| Access and impact of traditional vs. alternative education| Yuri Spizhovyi|
+|**Employment Outcomes by Pathway**| Comparison of job outcomes by learning path| Yevheniia Rudenko|
+|**Employer Perceptions and Success Factors**| Employer expectations, skills, and hiring bias|Olubusayo Solola & Nelson Fodjo|
+
+This breakdown allowed each member to lead a deep dive into their sub-domain, enhancing both focus and collaboration.
+
 ### 📋 Project Milestones
 
 This project follows the Collaborative Data Science Project (CDSP)
