@@ -67,14 +67,6 @@ education type.
 
 ---
 
-**Sara Şahin**  
-_Subquestion Focus:_ Entry-Level IT Opportunities  
-_Contribution Summary:_  
-Explored accessible job roles for newcomers with no tech background. Focused on job  
-posting requirements and entry-level salary benchmarks.
-
----
-
 **Shayma Mohamed**  
 _Subquestion Focus:_ Entry-Level IT Opportunities  
 _Contribution Summary:_  

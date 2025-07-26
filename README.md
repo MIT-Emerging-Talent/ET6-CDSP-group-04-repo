@@ -25,6 +25,20 @@ tech experience — can access sustainable IT careers. We compare formal pathway
 options such as bootcamps and online certifications to identify the most accessible,
 supportive, and employer-relevant routes.
 
+### 🧩 Research Structure
+
+To effectively explore our central question — we divided it into five sub-questions, each explored by a team member:
+
+| Sub-question| Description|Lead|
+|------------------------------------------|---------------------------------------------------------------|-------------------------------------------|
+|**Barriers and Demographics**| Social and systemic barriers for displaced youth| Khadija al Ramlawi|
+|**Entry-Level IT Opportunities**| Types and requirements of available jobs| Shaima Mohamed|
+|**Education Models and Accessibility**| Access and impact of traditional vs. alternative education| Yuri Spizhovyi|
+|**Employment Outcomes by Pathway**| Comparison of job outcomes by learning path| Yevheniia Rudenko|
+|**Employer Perceptions and Success Factors**| Employer expectations, skills, and hiring bias|Olubusayo Solola & Nelson Fodjo|
+
+This breakdown allowed each member to lead a deep dive into their sub-domain, enhancing both focus and collaboration.
+
 ### 📋 Project Milestones
 
 This project follows the Collaborative Data Science Project (CDSP)
@@ -36,8 +50,14 @@ This project follows the Collaborative Data Science Project (CDSP)
   - See our [Domain Study on Career Pathways into IT for Displaced Youth](0_domain_study)
   - Milestone 1 [Retrospective](collaboration/retrospectives/1_problem_identification.md)
 - Data Collection – Gather, clean, and document data
+  - See our [Data Description](1_datasets/data_description.md)
   - Milestone 2 [Retrospective](collaboration/retrospectives/2_data_collection.md)
 - Data Analysis – Analyze data and interpret results
+  - [Barriers and Demographics Analysis](4_data_analysis/Barriers_and_Demographics_Analysis.ipynb)
+  - [Entry-Level IT Opportunities Analysis](//)
+  - [Education Models and Accessibility Analysis](4_data_analysis/employer_perception.ipynb)
+  - [Employment Outcomes by Pathway Analysis](4_data_analysis/data_analysis_on_employment_outcomes_by_education_pathway.ipynb)
+  - [Employer Perceptions and Success Factors Analysis](4_data_analysis/education_employment_analysis.ipynb)
   - Milestone 3 [Retrospective](collaboration/retrospectives/3_data_analysis.md)
 - Communicating Results – Prepare materials for a target audience
   - Milestone 4 [Retrospective](collaboration/retrospectives/4_communicating_results.md)
