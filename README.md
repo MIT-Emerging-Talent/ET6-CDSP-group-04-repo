@@ -53,11 +53,11 @@ This project follows the Collaborative Data Science Project (CDSP)
   - See our [Data Description](1_datasets/data_description.md)
   - Milestone 2 [Retrospective](collaboration/retrospectives/2_data_collection.md)
 - Data Analysis – Analyze data and interpret results
-  - [Barriers and Demographics Analysis](4_data_analysis/Barriers_and_Demographics_Analysis.ipynb)
-  - [Entry-Level IT Opportunities Analysis](//)
-  - [Education Models and Accessibility Analysis](4_data_analysis/employer_perception.ipynb)
-  - [Employment Outcomes by Pathway Analysis](4_data_analysis/data_analysis_on_employment_outcomes_by_education_pathway.ipynb)
-  - [Employer Perceptions and Success Factors Analysis](4_data_analysis/education_employment_analysis.ipynb)
+  - [Barriers and Demographics Analysis](4_data_analysis/SQ1_Barriers_and_Demographics_Analysis.ipynb)
+  - [Entry-Level IT Opportunities Analysis](4_data_analysis/SQ2_EntryLevel_IT_Opportunities_Analysis.ipynb)
+  - [Education Models and Accessibility Analysis](4_data_analysis/SQ3_Education_Models_and_Accessibility_analysis.ipynb)
+  - [Employment Outcomes by Pathway Analysis](4_data_analysis/SQ4_Employment_Outcomes_By_Education_Pathway_Analysis.ipynb)
+  - [Employer Perceptions and Success Factors Analysis](4_data_analysis/SQ5_Employer_Perceptions_and_Success_Factors_Factor.ipynb )
   - Milestone 3 [Retrospective](collaboration/retrospectives/3_data_analysis.md)
 - Communicating Results – Prepare materials for a target audience
   - Milestone 4 [Retrospective](collaboration/retrospectives/4_communicating_results.md)
@@ -66,6 +66,29 @@ This project follows the Collaborative Data Science Project (CDSP)
 
 A detailed checklist for each milestone is available in the
 [official CDSP syllabus](https://docs.google.com/document/d/1TaoVVqJD5EqmBGLw6_qzph8EZnuL6uhY/edit?tab=t.0).
+
+### 📌 Main Finding
+
+**Accessible and employer-relevant IT career pathways for displaced youth without
+prior tech backgrounds in the U.S. include entry-level roles such as IT Support,
+QA Testing, and Junior Web Development — most commonly accessed via non-traditional
+education models such as bootcamps, online platforms, and nonprofit programs.**
+
+---
+
+### ✅ Conclusion
+
+While traditional degrees still correlate with higher salaries, **alternative
+training models are proving to be viable, scalable, and accessible pathways for
+displaced youth** — especially when designed with inclusion and support in mind.
+
+The most effective IT pathways for displaced youth include:
+
+- **Low-barrier entry-level roles** in IT support, QA, and web development  
+- **Non-traditional education**: bootcamps, online learning, nonprofit programs  
+- **Supportive program features**: mentorship, micro-credentials, and job placement  
+- **Targeting high-immigrant states** like CA, TX, FL, and NY  
+- **Cross-sector efforts** to reduce barriers tied to cost, documentation, and language
 
 ### 📁 Repository Structure
 
