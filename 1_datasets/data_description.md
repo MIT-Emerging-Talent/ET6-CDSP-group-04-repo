@@ -292,7 +292,57 @@ Not statistically representative; qualitative insights
 
 ### TEAM DATA SOURCES 2
 
- 1. *(Add more as needed)*
+- **Raw Data:** [us_it_job_opportunities.xlsx](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-04-repo/blob/main/1_datasets/raw_data/us_it_job_opportunities.xlsx)
+
+#### **Entry-Level IT Job Opportunities Dataset (Raw Data)**  
+
+**Description:**  
+This dataset contains **21,961 entry-level IT job postings** compiled from leading employment platforms:  
+
+- **Glassdoor**  
+- **Indeed**  
+- **ZipRecruiter**  
+
+The raw dataset contains **21,961 IT job postings** aggregated from **Glassdoor, Indeed, and ZipRecruiter**.
+It captures a broad range of IT roles across the U.S., including both degree-required and non-degree opportunities.  
+
+#### **Dataset Columns**
+
+- **Title** – Original job title as listed.  
+- **Job Type** (Full-time, Part-time, Contract, Internship)  
+- **Is Remote** (Remote/On-site indicator)  
+- **Job Level** (Entry, Mid, Senior)  
+- **Location** – City and state information (may include inconsistencies).  
+- **Description** – Full job posting text (source for extracting job type, remote status, and level).  
+- **Mean Salary** – Salary data where available (often in range format).  
+- **Education Type** – Preliminary classification where explicitly stated.  
+
+**Contents:**  
+
+- Job title and functional category (e.g., IT Support, Cybersecurity, Software Development)  
+- Location (state-level granularity)  
+- Work arrangement (Remote, Hybrid, On-site)  
+- Education requirements (University, Bootcamp, Online, No Degree)  
+- Experience requirements  
+- Salary information (minimum, maximum, and average values)  
+
+**Intended Use:**  
+
+- Identify the most common entry-level IT job categories accessible to candidates without a traditional
+tech background.  
+- Quantify the proportion of roles requiring no university degree.  
+- Compare salary ranges between degree-required and non-degree-required positions.  
+- Assess geographic distribution and hiring patterns across U.S. states.  
+
+**Limitations:**  
+
+- Data is limited to publicly available job postings; actual hiring practices may vary.  
+- Education requirements are determined through keyword-based parsing, which may not capture all variations in
+employer descriptions.  
+- Salary data reflects posted or estimated ranges and may not represent final negotiated compensation.  
+
+This raw dataset serves as the **starting point for data cleaning and feature engineering**. Key variables such
+as **job type**, **remote status**, and **job level** will be extracted from the unstructured descriptions for analysis.
 
 ---
 
