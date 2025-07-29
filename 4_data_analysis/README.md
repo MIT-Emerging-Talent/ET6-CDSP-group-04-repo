@@ -122,7 +122,18 @@ _Contribution Summary:_
 ---
 
 **Shayma Mohamed**  
-_Support role:_ Assisted in data validation and research question alignment
+_SubQuestion 2 Focus:_ Entry-Level IT Opportunities  
+_Contribution Summary:_  
+
+- Cleaned and processed raw dataset of 21,961 U.S. IT job postings sourced from Glassdoor, Indeed, and ZipRecruiter  
+- Built `SQ2_EntryLevel_IT_Opportunities_Analysis.ipynb` notebook  
+- Conducted exploratory analysis to identify the most accessible job categories, share of no-degree/no-experience roles,
+  and average salaries  
+- Created visualizations highlighting entry-level opportunities by category and state  
+- Summarized findings for integration into the main research synthesis  
+- Identified key entry-level IT pathways most accessible for displaced youth
+
+📘 Main analysis notebook: `SQ2_EntryLevel_IT_Opportunities_Analysis.ipynb`  
 
 ---
 
