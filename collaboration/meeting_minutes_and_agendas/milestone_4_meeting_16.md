@@ -37,8 +37,8 @@
 - **Core finding:** Alternative IT training models (bootcamps, online learning) are **viable pathways** for displaced youth
    when paired with **inclusion and support measures**.
 - **Key insight:** Language barriers outweigh cost barriers in limiting access.
-- **Conclusion:** Traditional degrees still correlate with higher salaries, but accessible models can scale opportunities for
-   displaced persons in entry-level IT roles.
+- **Conclusion:** Traditional degrees still correlate with higher salaries, but accessible models can scale opportunities
+  for displaced persons in entry-level IT roles.
 
 ---
 
