@@ -1,6 +1,5 @@
 # 📝 Milestone 1 – Meeting 4: Weekly Team Sync & Submission Prep
 
-**Meeting Title:** Weekly Meeting  
 **Date:** 16/06/2025  
 **Time:** 12:00 PM – 01:30 PM EST  
 **Attendees:** Olubusayo Solola, Yevheniia Rudenko, Shaima Mohamed, Khadija Ramlawi, Nelson Fodjo  
