@@ -10,15 +10,18 @@
 
 ### Capabilities and Constraints
 
-- **Constraints:** Limited funding, unfamiliarity with the U.S. education system, lack of social capital, limited time due to survival priorities
+- **Constraints:** Limited funding, unfamiliarity with the U.S. education system, lack of social capital, limited time
+  due to survival priorities
 - **Capabilities:** High motivation to work, foundational digital literacy, increasing smartphone and internet access
 
 ---
 
 ## 🎯 Communication Goals
 
-- **Help displaced youth understand** the current challenges and realities of the U.S. IT job market in 2025, including high competition and the importance employers place on formal education
-- **Present a realistic pathway hierarchy** based on research: traditional degrees → special programs → bootcamps → online/nonprofit courses
+- **Help displaced youth understand** the current challenges and realities of the U.S. IT job market in 2025, including
+  high competition and the importance employers place on formal education
+- **Present a realistic pathway hierarchy** based on research:
+  traditional degrees → special programs → bootcamps → online/nonprofit courses
 - **Encourage long-term investment thinking**, even if the timeline is 2–4 years, to increase chances of meaningful employment
 - **Emphasize agency** by providing tools to help individuals navigate options based on their personal circumstances
 
@@ -38,21 +41,32 @@
 ## 📦 Chosen Formats & Platforms
 
 ### 1. **YouTube Explainer Video**
+
 - **Length:** 3 minutes
 - **Style:** Animated, narrative voiceover
 - **Purpose:** Deliver a story-driven summary of findings and empower users to self-identify their path
 
 ### 2. **Instagram Carousel Campaign**
+
 - **Slides:** 6–8
 - **Purpose:** Convert flowchart insights into quick, swipable tips with CTAs and links to video/site
 
 ### 3. **Interactive Flowchart**
+
 - **Tool:** Miro or Canva
 - **Purpose:** Help individuals navigate options based on money/time via a “choose your own path” logic tree
 
 ### 4. **Website Landing Page**
+
 - **Tool:** GitHub Pages or Carrd
 - **Purpose:** A single link to host all artefacts (video, carousel, flowchart, form)
+
+### 5. **Academic Paper (Optional)**
+
+- **Tool:** Google Docs or Overleaf (LaTeX)
+- **Purpose:** Present a formalized write-up of the research insights,
+  suitable for academic or policy-oriented audiences;
+- includes references, methodology, and limitations
 
 ---
 
@@ -95,7 +109,9 @@
 
 ## ⚠️ Acknowledging Uncertainty
 
-While our research indicates traditional degrees remain the most reliable pathway to IT careers, **there are no guarantees** in a changing job market. Outcomes vary based on location, individual motivation, and economic shifts. We present these options as **probability-informed paths**, not promises.
+While our research indicates traditional degrees remain the most reliable pathway to IT careers, **there are no guarantees**
+in a changing job market. Outcomes vary based on location, individual motivation, and economic shifts. We present these
+options as **probability-informed paths**, not promises.
 
 ---
 
@@ -135,3 +151,4 @@ While our research indicates traditional degrees remain the most reliable pathwa
 - [ ] Git tag created  
 - [ ] Retrospective (group + individual)  
 - [ ] Milestone 5 Survey completed
+  
