@@ -1,0 +1,19 @@
+name: Deploy from dev branch
+
+on:
+  push:
+    branches: [113-data-storytelling-site-for-it-pathways-for-displaced-youth]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: "5_communication_strategy/web page"
+
