@@ -1,0 +1,23 @@
+:root { --bg:#0f1117; --fg:#eaeaea; --muted:#b4b4b4; --accent:#00ff9f; --border:#24262e; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--fg);
+           font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+    .site { position: sticky; top: 0; z-index: 50; backdrop-filter: blur(8px); background: rgba(15,17,23,.85); border-bottom: 1px solid var(--border); }
+    .nav { max-width: 1100px; margin:0 auto; padding: 12px 20px; display:flex; justify-content: space-between; align-items: center; }
+    .brand { color: var(--accent); font-weight: 700; }
+    .links a { color: var(--muted); text-decoration: none; margin-left: 16px; }
+    .links a:hover { color: var(--fg); }
+    .container { max-width: 1100px; margin: 0 auto; padding: 28px 20px 80px; }
+    section { margin: 56px 0; }
+    h1,h2 { color: var(--accent); margin-bottom: 8px; }
+    p.lead { color: var(--muted); }
+    .kpis { display:grid; grid-template-columns: repeat(4, minmax(160px,1fr)); gap: 14px; margin-top: 18px; }
+    .kpi { border:1px solid var(--border); border-radius: 12px; padding: 14px; background:#12151d; }
+    .kpi .num { font-size: 1.8rem; font-weight: 800; }
+    figure { margin: 14px 0 6px; }
+    img.chart { width:100%; border:1px solid var(--border); border-radius:10px; display:block; }
+    figcaption { color: var(--muted); font-size: .95rem; margin-top: 6px; }
+    .two-col { display:grid; grid-template-columns: 1.2fr .8fr; gap: 20px; }
+    .card { border:1px solid var(--border); border-radius: 12px; background:#111420; padding: 16px; }
+    ul.clean { margin: 0; padding-left: 18px; color: var(--muted); }
+    blockquote { color: var(--muted); border-left: 3px solid var(--accent); margin: 12px 0; padding: 8px 12px; }

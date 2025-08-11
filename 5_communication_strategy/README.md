@@ -58,8 +58,9 @@
 
 ### 4. **Website Landing Page**
 
-- **Tool:** GitHub Pages or Carrd
+- **Tool:** GitHub Pages or/and Netlify
 - **Purpose:** A single link to host all artefacts (video, carousel, flowchart, form)
+- **Link:** [https://thunderous-moxie-cd1758.netlify.app](https://thunderous-moxie-cd1758.netlify.app)
 
 ### 5. **Academic Paper (Optional)**
 
@@ -138,7 +139,7 @@ options as **probability-informed paths**, not promises.
 - [ ] YouTube Video  
 - [ ] Instagram Carousel  
 - [ ] Flowchart (Canva or Miro)  
-- [ ] Website Landing Page  
+- [x] Website Landing Page  
 - [ ] Google Feedback Form  
 
 ---
