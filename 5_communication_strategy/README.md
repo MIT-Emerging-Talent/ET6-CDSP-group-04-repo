@@ -44,30 +44,42 @@
 
 - **Length:** 3 minutes
 - **Style:** Animated, narrative voiceover
-- **Purpose:** Deliver a story-driven summary of findings and empower users to self-identify their path
+- **Purpose:** Deliver a story-driven summary of findings and empower users to self-identify their path  
+- **Links:**  
+  - [YouTube Video](https://www.youtube.com/watch?v=N8M5NOt8xIc)  
+  - [Kapwing Transcript/Editor](https://www.kapwing.com/6897e00af1e5646b853e095c/studio/editor/transcript)
 
 ### 2. **Instagram Carousel Campaign**
 
 - **Slides:** 6–8
-- **Purpose:** Convert flowchart insights into quick, swipable tips with CTAs and links to video/site
+- **Purpose:** Convert flowchart insights into quick, swipable tips with CTAs and links to video/site  
+- **Links:**  
+  - [Instagram Carousel](https://www.instagram.com/p/DNNBhbguRMo/?utm_source=ig_web_copy_link)  
+  - [Design in Canva](https://www.canva.com/design/DAGvubqcJx0/vhYTTipsZDg82jT_ZgtWKg/edit)
 
 ### 3. **Interactive Flowchart**
 
 - **Tool:** Miro or Canva
-- **Purpose:** Help individuals navigate options based on money/time via a “choose your own path” logic tree
+- **Purpose:** Help individuals navigate options based on money/time via a “choose your own path” logic tree  
+- **Link:** [Interactive Flowchart](https://yuri-spizhovyi-mit.github.io/flow/)
 
 ### 4. **Website Landing Page**
 
-- **Tool:** GitHub Pages or/and Netlify
-- **Purpose:** A single link to host all artefacts (video, carousel, flowchart, form)
-- **Link:** [https://thunderous-moxie-cd1758.netlify.app](https://thunderous-moxie-cd1758.netlify.app)
+- **Tool:** GitHub Pages and/or Netlify
+- **Purpose:** A single link to host all artefacts (video, carousel, flowchart, form)  
+- **Link:** [Landing Page](https://thunderous-moxie-cd1758.netlify.app)
 
-### 5. **Academic Paper (Optional)**
+### 5. **Essay**
 
 - **Tool:** Google Docs or Overleaf (LaTeX)
 - **Purpose:** Present a formalized write-up of the research insights,
-  suitable for academic or policy-oriented audiences;
-- includes references, methodology, and limitations
+  suitable for academic or policy-oriented audiences; includes references, methodology, and limitations
+- **Link:** [Essay](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-04-repo/blob/main/5_communication_strategy/IT_Career_Pathways_Essay.pdf)
+
+### 6. **WhatsApp Channel**
+
+- **Purpose:** Maintain ongoing engagement and updates  
+- **Link:** [WhatsApp Channel](https://whatsapp.com/channel/0029Vb6RfkN1noz5w4DXur0x)
 
 ---
 
@@ -136,20 +148,22 @@ options as **probability-informed paths**, not promises.
 
 ## 🔗 Artefact Links (To be added)
 
-- [ ] YouTube Video  
-- [ ] Instagram Carousel  
-- [ ] Flowchart (Canva or Miro)  
-- [x] Website Landing Page  
-- [ ] Google Feedback Form  
+- [x] [YouTube Video](https://www.youtube.com/watch?v=N8M5NOt8xIc)
+- [x] [Kapwing Transcript/Editor](https://www.kapwing.com/6897e00af1e5646b853e095c/studio/editor/transcript)
+- [x] [Instagram Carousel](https://www.instagram.com/p/DNNBhbguRMo/?utm_source=ig_web_copy_link)
+- [x] [Interactive Flowchart](https://yuri-spizhovyi-mit.github.io/flow/)
+- [x] [Design in Canva](https://www.canva.com/design/DAGvubqcJx0/vhYTTipsZDg82jT_ZgtWKg/edit)  
+- [x] [Website Landing Page](https://thunderous-moxie-cd1758.netlify.app)
+- [x] [Essay](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-04-repo/blob/main/5_communication_strategy/IT_Career_Pathways_Essay.pdf)
+- [x] [WhatsApp Channel](https://whatsapp.com/channel/0029Vb6RfkN1noz5w4DXur0x)
 
 ---
 
 ## 📍 Submission Checklist
 
 - [x] Strategy document  
-- [ ] Communication artefact(s)  
-- [ ] Feedback mechanism  
+- [x] Communication artefact(s)  
+- [x] Feedback mechanism  
 - [ ] Git tag created  
 - [ ] Retrospective (group + individual)  
 - [ ] Milestone 5 Survey completed
-  
