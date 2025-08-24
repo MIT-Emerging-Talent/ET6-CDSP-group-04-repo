@@ -1,5 +1,3 @@
-<img src="./assets/intro.gif" alt="SKYGEN" width="100%">
-
 # 🌍 IT Career Pathways for Displaced Youth in the U.S. (2025)
 
 **How can young displaced individuals in the U.S. — especially those without prior tech experience — access sustainable
@@ -8,6 +6,10 @@
 > A collaborative research project by **Team SKAJEN** (CDSP, MIT Emerging Talent).  
 > Focus: Comparing traditional (degrees) and non‑traditional (bootcamps, online learning, nonprofit programs) education
 > pathways into IT.
+
+---
+
+<img src="./assets/intro.gif" alt="SKYGEN" width="100%">
 
 ---
 

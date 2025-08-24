@@ -4,3 +4,5 @@ ignore:
 MD013:
   line_length: 120
   ignore_code_blocks: true
+MD033:
+  allowed_elements: [a, img, br, details, summary, p
