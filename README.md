@@ -16,34 +16,34 @@
 ## 🚀 Quick Access
 
 <p align="center">
-  <a href="6_final_presentation" target="_blank" style="margin:8px; display:inline-block;">
+  <a href="6_final_presentation" style="margin:8px; display:inline-block;">
     <img src="https://img.shields.io/badge/🎥_Final_Presentation-FF4081?style=for-the-badge" alt="Slides badge"><br>
   </a>
-  <a href="5_communication_strategy/IT_Career_Pathways_Essay.pdf" target="_blank" style="margin:8px; display:inline-block;">
+  <a href="5_communication_strategy/IT_Career_Pathways_Essay.pdf" style="margin:8px; display:inline-block;">
     <img src="https://img.shields.io/badge/📄_Essay-0055FF?style=for-the-badge" alt="Essay badge"><br>
   </a>
-  <a href="https://scintillating-figolla-fa7acf.netlify.app/" target="_blank" style="margin:8px; display:inline-block;">
+  <a href="https://scintillating-figolla-fa7acf.netlify.app/" style="margin:8px; display:inline-block;">
     <img src="https://img.shields.io/badge/🌐_Interactive_Website-009688?style=for-the-badge" alt="Website badge"><br>
   </a>
-  <a href="5_communication_strategy/web_page"  target="_blank"style="margin:8px; display:inline-block;">
+  <a href="5_communication_strategy/web_page" style="margin:8px; display:inline-block;">
     <img src="https://img.shields.io/badge/🖼_Infographics-673AB7?style=for-the-badge" alt="Infographics badge"><br>
   </a>
-  <a href="5_communication_strategy/Group_23_review.pdf" target="_blank" style="margin:8px; display:inline-block;">
+  <a href="5_communication_strategy/Group_23_review.pdf" style="margin:8px; display:inline-block;">
     <img src="https://img.shields.io/badge/📊_Peer_Review-4CAF50?style=for-the-badge" alt="Peer Review badge"><br>
   </a>
-  <a href="https://www.youtube.com/watch?v=N8M5NOt8xIc" target="_blank" style="margin:8px; display:inline-block;">
+  <a href="https://www.youtube.com/watch?v=N8M5NOt8xIc" style="margin:8px; display:inline-block;">
     <img src="https://img.shields.io/badge/▶️_YouTube_Video-FF0000?style=for-the-badge" alt="YouTube badge"><br>
   </a>
-    <a href="https://whatsapp.com/channel/0029Vb6RfkN1noz5w4DXur0x" target="_blank" style="margin:8px; display:inline-block;">
+    <a href="https://whatsapp.com/channel/0029Vb6RfkN1noz5w4DXur0x" style="margin:8px; display:inline-block;">
     <img src="https://img.shields.io/badge/💬_WhatsApp_Channel-25D366?style=for-the-badge" alt="WhatsApp badge"><br>
   </a>
-  <a href="https://www.youtube.com/watch?v=bY0B2EQhnVM" target="_blank" style="margin:8px; display:inline-block;">
+  <a href="https://www.youtube.com/watch?v=bY0B2EQhnVM" style="margin:8px; display:inline-block;">
     <img src="https://img.shields.io/badge/▶️_YouTube_Video-FF0000?style=for-the-badge" alt="YouTube badge"><br>
   </a>
-<a href="https://yuri-spizhovyi-mit.github.io/flow/" target="_blank" style="margin:8px; display:inline-block;">
+<a href="https://yuri-spizhovyi-mit.github.io/flow/" style="margin:8px; display:inline-block;">
     <img src="https://img.shields.io/badge/🔀_Flowchart-2196F3?style=for-the-badge" alt="Flowchart badge"><br>
   </a>
-  <a href="https://www.instagram.com/p/DNNBhbguRMo/?utm_source=ig_web_copy_link" target="_blank" style="margin:8px; display:inline-block;">
+  <a href="https://www.instagram.com/p/DNNBhbguRMo/?utm_source=ig_web_copy_link" style="margin:8px; display:inline-block;">
     <img src="https://img.shields.io/badge/📲_Instagram_Carousel-E4405F?style=for-the-badge" alt="Instagram badge"><br>
   </a>
 </p>
@@ -78,71 +78,70 @@ emphasizing collaborative problem‑solving, careful analysis, and clear communi
 <details>
   <summary>➕ M0 — Cross-Cultural Collaboration</summary>
 
-- [Retrospective](collaboration/retrospectives/0_cross_cultural_collaboration.md){:target="_blank"}  
-- [Meeting Minutes & Agendas](collaboration/meeting_minutes_and_agendas/){:target="_blank"}
-- [Group Norms](collaboration/guide/1_group_norms.md){:target="_blank"}  
-- [Learning Goals](collaboration/guide/2_learning_goals.md){:target="_blank"}  
-- [Constraints](collaboration/guide/3_constraints.md){:target="_blank"}  
-- [Communication](collaboration/guide/4_communication.md){:target="_blank"}
+- [Retrospective](collaboration/retrospectives/0_cross_cultural_collaboration.md)  
+- [Meeting Minutes & Agendas](collaboration/meeting_minutes_and_agendas/)  
+- [Group Norms](collaboration/guide/1_group_norms.md)  
+- [Learning Goals](collaboration/guide/2_learning_goals.md)  
+- [Constraints](collaboration/guide/3_constraints.md)  
+- [Communication](collaboration/guide/4_communication.md)
 
 </details>
 
 <details>
   <summary>➕ M1 — Problem Identification</summary>
 
-- [Domain Study Introduction](0_domain_study/01_introduction.md){:target="_blank"}  
-- [Domain Study Guide](0_domain_study/guide.md){:target="_blank"}  
-- [Domain Study README](0_domain_study/README.md){:target="_blank"}  
-- [Retrospective](collaboration/retrospectives/1_problem_identification.md){:target="_blank"}
+- [Domain Study Introduction](0_domain_study/01_introduction.md)  
+- [Domain Study Guide](0_domain_study/guide.md)  
+- [Domain Study README](0_domain_study/README.md)  
+- [Retrospective](collaboration/retrospectives/1_problem_identification.md)
 
 </details>
 
 <details>
   <summary>➕ M2 — Data Collection</summary>
 
-- [Data Description](1_datasets/data_description.md){:target="_blank"}  
-- [Datasets README](1_datasets/README.md){:target="_blank"}  
-- [Guide](1_datasets/guide.md){:target="_blank"}  
-- [Cleaned Data](1_datasets/cleaned_data/){:target="_blank"}  
-- [Raw Data](1_datasets/raw_data/){:target="_blank"}
-- [Retrospective](collaboration/retrospectives/2_data_collection.md){:target="_blank"}
+- [Data Description](1_datasets/data_description.md)  
+- [Datasets README](1_datasets/README.md)  
+- [Guide](1_datasets/guide.md)  
+- [Cleaned Data](1_datasets/cleaned_data/)  
+- [Raw Data](1_datasets/raw_data/)  
+- [Retrospective](collaboration/retrospectives/2_data_collection.md)
 
 </details>
 
 <details>
   <summary>➕ M3 — Data Analysis</summary>
 
-- [Analysis Guide](4_data_analysis/guide.md){:target="_blank"}
-- [Analysis README](4_data_analysis/README.md){:target="_blank"}
-- [SQ1 — Barriers & Demographics](4_data_analysis/SQ1_Barriers_and_Demographics_Analysis.ipynb){:target="_blank"}  
-- [SQ2 — Entry-Level IT Opportunities](4_data_analysis/SQ2_EntryLevel_IT_Opportunities_Analysis.ipynb){:target="_blank"}
-- [SQ3 — Education Models & Accessibility](4_data_analysis/SQ3_Education_Models_and_Accessibility_analysis.ipynb)
-{:target="_blank"}  
-- [SQ4 — Employment Outcomes by Pathway](4_data_analysis/SQ4_Employment_Outcomes_By_Education_Pathway_Analysis.ipynb){:target="_blank"}
-- [SQ5 — Employer Perceptions & Success Factors](4_data_analysis/SQ5_Employer_Perceptions_and_Success_Factors_Factor.ipynb){:target="_blank"}
-- [Retrospective](collaboration/retrospectives/3_data_analysis.md){:target="_blank"}
+- [Analysis Guide](4_data_analysis/guide.md)  
+- [Analysis README](4_data_analysis/README.md)  
+- [SQ1 — Barriers & Demographics](4_data_analysis/SQ1_Barriers_and_Demographics_Analysis.ipynb)  
+- [SQ2 — Entry-Level IT Opportunities](4_data_analysis/SQ2_EntryLevel_IT_Opportunities_Analysis.ipynb)  
+- [SQ3 — Education Models & Accessibility](4_data_analysis/SQ3_Education_Models_and_Accessibility_analysis.ipynb)  
+- [SQ4 — Employment Outcomes by Pathway](4_data_analysis/SQ4_Employment_Outcomes_By_Education_Pathway_Analysis.ipynb)  
+- [SQ5 — Employer Perceptions & Success Factors](4_data_analysis/SQ5_Employer_Perceptions_and_Success_Factors_Factor.ipynb)  
+- [Retrospective](collaboration/retrospectives/3_data_analysis.md)
 
 </details>
 
 <details>
   <summary>➕ M4 — Communicating Results</summary>
 
-- [Communication Strategy README](5_communication_strategy/README.md){:target="_blank"}  
-- [Essay](5_communication_strategy/IT_Career_Pathways_Essay.pdf){:target="_blank"}
-- [Group 23 Review](5_communication_strategy/Group_23_review.pdf){:target="_blank"}
-- [Web Page Prototype](5_communication_strategy/web_page/index.html){:target="_blank"}
-- [Website Landing Page](5_communication_strategy/website/index.html){:target="_blank"}
-- [Guide](5_communication_strategy/guide.md){:target="_blank"}
-- [Retrospective](collaboration/retrospectives/4_communicating_results.md){:target="_blank"}
+- [Communication Strategy README](5_communication_strategy/README.md)  
+- [Essay](5_communication_strategy/IT_Career_Pathways_Essay.pdf)  
+- [Group 23 Review](5_communication_strategy/Group_23_review.pdf)  
+- [Web Page Prototype](5_communication_strategy/web_page/index.html)  
+- [Website Landing Page](5_communication_strategy/website/index.html)  
+- [Guide](5_communication_strategy/guide.md)  
+- [Retrospective](collaboration/retrospectives/4_communicating_results.md)
 
 </details>
 
 <details>
   <summary>➕ M5 — Final Presentation</summary>
 
-- [Final Presentation README](6_final_presentation/README.md){:target="_blank"}
-- [Guide](6_final_presentation/guide.md){:target="_blank"}
-- [Retrospective](collaboration/retrospectives/5_final_presentation.md){:target="_blank"}
+- [Final Presentation README](6_final_presentation/README.md)  
+- [Guide](6_final_presentation/guide.md)  
+- [Retrospective](collaboration/retrospectives/5_final_presentation.md)
 
 </details>
 
@@ -172,26 +171,25 @@ emphasizing collaborative problem‑solving, careful analysis, and clear communi
 
 **Core artifacts**  
 
-- 📄 **Essay** → [IT Career Pathways Essay (PDF)](5_communication_strategy/IT_Career_Pathways_Essay.pdf)
-{:target="_blank"}
-- 🎥 **Final Presentation** → [Slides & Materials](6_final_presentation/){:target="_blank"}
-- 🌐 **Interactive Website** → [GitHub Pages / Netlify Site](https://scintillating-figolla-fa7acf.netlify.app/){:target="_blank"}
+- 📄 **Essay** → [IT Career Pathways Essay (PDF)](5_communication_strategy/IT_Career_Pathways_Essay.pdf)  
+- 🎥 **Final Presentation** → [Slides & Materials](6_final_presentation/)  
+- 🌐 **Interactive Website** → [GitHub Pages / Netlify Site](https://scintillating-figolla-fa7acf.netlify.app/)
 
 **Communication formats (from Communication Strategy — excluding Essay, Slides, Website)**  
 
 - ▶️ **YouTube Explainer Video** — 3-minute animated, voiceover; story-driven summary  
-  - [Video 1](https://www.youtube.com/watch?v=bY0B2EQhnVM){:target="_blank"}
-  - [Video 2](https://www.youtube.com/watch?v=N8M5NOt8xIc){:target="_blank"}
+  - [Video 1](https://www.youtube.com/watch?v=bY0B2EQhnVM)  
+  - [Video 2](https://www.youtube.com/watch?v=N8M5NOt8xIc)  
 - 🖼 **Instagram Carousel Campaign** — 6–8 slides of tips with CTAs  
-  - [Instagram Post](https://www.instagram.com/p/DNNBhbguRMo/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==){:target="_blank"}
-  - [Design in Canva](https://www.canva.com/design/DAGvubqcJx0/vhYTTipsZDg82jT_ZgtWKg/edit){:target="_blank"}  
+  - [Instagram Post](https://www.instagram.com/p/DNNBhbguRMo/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)  
+  - [Design in Canva](https://www.canva.com/design/DAGvubqcJx0/vhYTTipsZDg82jT_ZgtWKg/edit)  
 - 📲 **WhatsApp Channel** — ongoing engagement & updates  
-  - [Join Channel](https://whatsapp.com/channel/0029Vb6RfkN1noz5w4DXur0x) {:target="_blank"}
+  - [Join Channel](https://whatsapp.com/channel/0029Vb6RfkN1noz5w4DXur0x)  
 
 **Additional assets**  
 
-- 🧩 **Infographics & Prototypes** → [Infographics Folder](5_communication_strategy/web_page/){:target="_blank"}
-- ✅ **Group 23 Peer Review (PDF)** → [Peer Review PDF](5_communication_strategy/Group_23_review.pdf){:target="_blank"}
+- 🧩 **Infographics & Prototypes** → [Infographics Folder](5_communication_strategy/web_page/)  
+- ✅ **Group 23 Peer Review (PDF)** → [Peer Review PDF](5_communication_strategy/Group_23_review.pdf)  
 
 </details>
 
@@ -223,12 +221,12 @@ meaning of teamwork. Our name symbolizes **unity and teamwork** as we strive tog
 
 ## 👥 Team Members
 
-- [Nelson Fodjo](https://github.com/FKN237){:target="_blank"}
-- [Yevheniia Rudenko](https://github.com/Yevheniia-Rudenko){:target="_blank"}  
-- [Olubusayo Solola](https://github.com/Simi-Solola){:target="_blank"}
-- [Khadija al Ramlawi](https://github.com/Khadijaramlawi){:target="_blank"}
-- [Shaima Mohamed](https://github.com/Shaymamohd){:target="_blank"}
-- [Yuri Spizhovyi](https://github.com/yuri-spizhovyi-mit){:target="_blank"}  
+- [Nelson Fodjo](https://github.com/FKN237)  
+- [Yevheniia Rudenko](https://github.com/Yevheniia-Rudenko)  
+- [Olubusayo Solola](https://github.com/Simi-Solola)  
+- [Khadija al Ramlawi](https://github.com/Khadijaramlawi)  
+- [Shaima Mohamed](https://github.com/Shaymamohd)  
+- [Yuri Spizhovyi](https://github.com/yuri-spizhovyi-mit)  
 
 ---
 
