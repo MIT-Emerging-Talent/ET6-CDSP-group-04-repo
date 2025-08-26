@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - "5_communication_strategy/website/**"
+      - "5_communication_strategy/webpage_flowchart/**"
   workflow_dispatch:
 
 permissions:
@@ -32,7 +32,7 @@ jobs:
       - name: Upload artifact (your subfolder)
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "5_communication_strategy/website"
+          path: "5_communication_strategy/webpage_flowchart"
 
       - name: Deploy to GitHub Pages
         id: deployment
