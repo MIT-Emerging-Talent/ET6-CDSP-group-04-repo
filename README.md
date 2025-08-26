@@ -18,7 +18,7 @@
 <div align="center">
 
   <!-- Row 1 (1) -->
-  <a href="6_final_presentation">
+  <a href="6_final_presentation" target="_blank" rel="noopener noreferrer">
     <img alt="Final Presentation"
          src="https://img.shields.io/badge/-FINAL%20PRESENTATION-3B82F6?style=for-the-badge&logo=slides" />
   </a>
@@ -26,11 +26,11 @@
   <br>
 
   <!-- Row 2 (2) -->
-  <a href="5_communication_strategy/IT_Career_Pathways_Essay.pdf">
+  <a href="5_communication_strategy/IT_Career_Pathways_Essay.pdf" target="_blank" rel="noopener noreferrer">
     <img alt="Essay"
          src="https://img.shields.io/badge/-ESSAY-64748B?style=for-the-badge&logo=book" />
   </a>
-  <a href="https://scintillating-figolla-fa7acf.netlify.app/">
+  <a href="https://scintillating-figolla-fa7acf.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img alt="Interactive Website"
          src="https://img.shields.io/badge/-INTERACTIVE%20WEBSITE-F59E0B?style=for-the-badge&logo=globe" />
   </a>
@@ -38,15 +38,15 @@
   <br>
 
   <!-- Row 3 (3) -->
-  <a href="5_communication_strategy/web_page">
+  <a href="5_communication_strategy/Group_23_review.pdf" target="_blank" rel="noopener noreferrer">
     <img alt="Peer Review"
          src="https://img.shields.io/badge/-PEER%20REVIEW-2563EB?style=for-the-badge&logo=chart-bar" />
   </a>
-  <a href="5_communication_strategy/Group_23_review.pdf">
+  <a href="5_communication_strategy/Group_23_review.pdf" target="_blank" rel="noopener noreferrer">
     <img alt="Peer Review"
          src="https://img.shields.io/badge/-PEER%20REVIEW-10B981?style=for-the-badge&logo=people" />
   </a>
-  <a href="https://yuri-spizhovyi-mit.github.io/flow/">
+  <a href="https://yuri-spizhovyi-mit.github.io/flow/" target="_blank" rel="noopener noreferrer">
     <img alt="Flowchart"
          src="https://img.shields.io/badge/-FLOWCHART-64748B?style=for-the-badge&logo=project" />
   </a>
@@ -54,19 +54,19 @@
   <br>
 
   <!-- Row 4 (4) -->
-  <a href="https://www.youtube.com/watch?v=N8M5NOt8xIc">
+  <a href="https://www.youtube.com/watch?v=N8M5NOt8xIc" target="_blank" rel="noopener noreferrer">
     <img alt="YouTube Video 1"
          src="https://img.shields.io/badge/-YOUTUBE%20VIDEO-EF4444?style=for-the-badge&logo=youtube" />
   </a>
-  <a href="https://whatsapp.com/channel/0029Vb6RfkN1noz5w4DXur0x">
+  <a href="https://whatsapp.com/channel/0029Vb6RfkN1noz5w4DXur0x" target="_blank" rel="noopener noreferrer">
     <img alt="WhatsApp Channel"
          src="https://img.shields.io/badge/-WHATSAPP%20CHANNEL-10B981?style=for-the-badge&logo=whatsapp" />
   </a>
-  <a href="https://www.youtube.com/watch?v=bY0B2EQhnVM">
+  <a href="https://www.youtube.com/watch?v=bY0B2EQhnVM" target="_blank" rel="noopener noreferrer">
     <img alt="YouTube Video 2"
          src="https://img.shields.io/badge/-YOUTUBE%20VIDEO-EF4444?style=for-the-badge&logo=youtube" />
   </a>
-  <a href="https://www.instagram.com/p/DNNBhbguRMo/?utm_source=ig_web_copy_link">
+  <a href="https://www.instagram.com/p/DNNBhbguRMo/?utm_source=ig_web_copy_link" target="_blank" rel="noopener noreferrer">
     <img alt="Instagram Carousel"
          src="https://img.shields.io/badge/-INSTAGRAM%20CAROUSEL-10B981?style=for-the-badge&logo=instagram" />
   </a>
@@ -90,11 +90,11 @@ emphasizing collaborative problem‑solving, careful analysis, and clear communi
 
 | Sub-question | Description | Lead |
 |--------------|-------------|------|
-| ![Barriers Badge](https://img.shields.io/badge/🔎_Barriers_&_Demographics-blue) | Social & systemic barriers for displaced youth | Khadija al Ramlawi |
-| ![Jobs Badge](https://img.shields.io/badge/💼_Entry_Level_Jobs-green) | Types & requirements of available jobs | Shaima Mohamed |
-| ![Education Badge](https://img.shields.io/badge/🎓_Education_Models-orange) | Comparing traditional vs. alternative education | Yuri Spizhovyi |
-| ![Outcomes Badge](https://img.shields.io/badge/📊_Employment_Outcomes-purple) | Outcomes by learning pathway | Yevheniia Rudenko |
-| ![Employer Badge](https://img.shields.io/badge/🏢_Employer_Perceptions-red) | Employer expectations, skills, & bias | Olubusayo Solola & Nelson Fodjo |
+| <img src="https://img.shields.io/badge/🔎_Barriers_&_Demographics-blue" alt="Barriers & Demographics" /> | Social & systemic barriers for displaced youth | Khadija al Ramlawi |
+| <img src="https://img.shields.io/badge/💼_Entry_Level_Jobs-green" alt="Entry Level Jobs" /> | Types & requirements of available jobs | Shaima Mohamed |
+| <img src="https://img.shields.io/badge/🎓_Education_Models-orange" alt="Education Models" /> | Comparing traditional vs. alternative education | Yuri Spizhovyi |
+| <img src="https://img.shields.io/badge/📊_Employment_Outcomes-purple" alt="Employment Outcomes" /> | Outcomes by learning pathway | Yevheniia Rudenko |
+| <img src="https://img.shields.io/badge/🏢_Employer_Perceptions-red" alt="Employer Perceptions" /> | Employer expectations, skills, & bias | Olubusayo Solola & Nelson Fodjo |
 
 ---
 
@@ -246,12 +246,12 @@ meaning of teamwork. Our name symbolizes **unity and teamwork** as we strive tog
 
 ## 👥 Team Members
 
-- [Nelson Fodjo](https://github.com/FKN237)  
-- [Yevheniia Rudenko](https://github.com/Yevheniia-Rudenko)  
-- [Olubusayo Solola](https://github.com/Simi-Solola)  
-- [Khadija al Ramlawi](https://github.com/Khadijaramlawi)  
-- [Shaima Mohamed](https://github.com/Shaymamohd)  
-- [Yuri Spizhovyi](https://github.com/yuri-spizhovyi-mit)  
+- <a href="https://github.com/FKN237" target="_blank">Nelson Fodjo</a>  
+- <a href="https://github.com/Yevheniia-Rudenko" target="_blank">Yevheniia Rudenko</a>  
+- <a href="https://github.com/Simi-Solola" target="_blank">Olubusayo Solola</a>  
+- <a href="https://github.com/Khadijaramlawi" target="_blank">Khadija al Ramlawi</a>  
+- <a href="https://github.com/Shaymamohd" target="_blank">Shaima Mohamed</a>  
+- <a href="https://github.com/yuri-spizhovyi-mit" target="_blank">Yuri Spizhovyi</a>
 
 ---
 
