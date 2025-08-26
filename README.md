@@ -15,12 +15,12 @@
 
 ## 🚀 Quick Access
 
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD013 MD033 -->
 
 <div align="center">
 
   <!-- Row 1 (1) -->
-  <a href="6_final_presentation" target="_blank" rel="noopener noreferrer">
+  <a href="6_final_presentation/Group4_Skajen_Final_Presentation.pptx" target="_blank" rel="noopener noreferrer">
     <img alt="Final Presentation"
          src="https://img.shields.io/badge/-FINAL%20PRESENTATION-3B82F6?style=for-the-badge&logo=slides" />
   </a>
@@ -75,7 +75,7 @@
 
 </div>
 
-<!-- markdownlint-enable MD033 -->
+<!-- markdownlint-enable MD013 MD033 -->
 ---
 
 ## 🎯 Project Overview
@@ -168,8 +168,7 @@ emphasizing collaborative problem‑solving, careful analysis, and clear communi
 <details>
   <summary>➕ M5 — Final Presentation</summary>
 
-- <a href="6_final_presentation/README.md" target="_blank" rel="noopener noreferrer">Final Presentation README</a>  
-- <a href="6_final_presentation/guide.md" target="_blank" rel="noopener noreferrer">Guide</a>  
+- <a href="6_final_presentation/Group4_Skajen_Final_Presentation.pptx" target="_blank" rel="noopener noreferrer">Final Presentation</a>
 - <a href="collaboration/retrospectives/5_final_presentation.md" target="_blank" rel="noopener noreferrer">Retrospective</a>
 
 </details>
