@@ -97,6 +97,7 @@ emphasizing collaborative problem‑solving, careful analysis, and clear communi
 | <img src="https://img.shields.io/badge/🏢_Employer_Perceptions-red" alt="Employer Perceptions" /> | Employer expectations, skills, & bias | Olubusayo Solola & Nelson Fodjo |
 
 ---
+<!-- markdownlint-disable MD013 -->
 
 ## 📋 Project Milestones
 
@@ -170,7 +171,7 @@ emphasizing collaborative problem‑solving, careful analysis, and clear communi
 
 </details>
 
----
+<!-- markdownlint-enable MD013 -->
 
 ## 🌟 Key Finding
 
