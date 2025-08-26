@@ -15,38 +15,63 @@
 
 ## 🚀 Quick Access
 
-<p align="center">
-  <a href="6_final_presentation" style="margin:8px; display:inline-block;">
-    <img src="https://img.shields.io/badge/🎥_Final_Presentation-FF4081?style=for-the-badge" alt="Slides badge"><br>
+<div align="center">
+
+  <!-- Row 1 (1) -->
+  <a href="6_final_presentation">
+    <img alt="Final Presentation"
+         src="https://img.shields.io/badge/-FINAL%20PRESENTATION-3B82F6?style=for-the-badge&logo=slides" />
   </a>
-  <a href="5_communication_strategy/IT_Career_Pathways_Essay.pdf" style="margin:8px; display:inline-block;">
-    <img src="https://img.shields.io/badge/📄_Essay-0055FF?style=for-the-badge" alt="Essay badge"><br>
+
+  <br>
+
+  <!-- Row 2 (2) -->
+  <a href="5_communication_strategy/IT_Career_Pathways_Essay.pdf">
+    <img alt="Essay"
+         src="https://img.shields.io/badge/-ESSAY-64748B?style=for-the-badge&logo=book" />
   </a>
-  <a href="https://scintillating-figolla-fa7acf.netlify.app/" style="margin:8px; display:inline-block;">
-    <img src="https://img.shields.io/badge/🌐_Interactive_Website-009688?style=for-the-badge" alt="Website badge"><br>
+  <a href="https://scintillating-figolla-fa7acf.netlify.app/">
+    <img alt="Interactive Website"
+         src="https://img.shields.io/badge/-INTERACTIVE%20WEBSITE-F59E0B?style=for-the-badge&logo=globe" />
   </a>
-  <a href="5_communication_strategy/web_page" style="margin:8px; display:inline-block;">
-    <img src="https://img.shields.io/badge/🖼_Infographics-673AB7?style=for-the-badge" alt="Infographics badge"><br>
+
+  <br>
+
+  <!-- Row 3 (3) -->
+  <a href="5_communication_strategy/web_page">
+    <img alt="Peer Review"
+         src="https://img.shields.io/badge/-PEER%20REVIEW-2563EB?style=for-the-badge&logo=chart-bar" />
   </a>
-  <a href="5_communication_strategy/Group_23_review.pdf" style="margin:8px; display:inline-block;">
-    <img src="https://img.shields.io/badge/📊_Peer_Review-4CAF50?style=for-the-badge" alt="Peer Review badge"><br>
+  <a href="5_communication_strategy/Group_23_review.pdf">
+    <img alt="Peer Review"
+         src="https://img.shields.io/badge/-PEER%20REVIEW-10B981?style=for-the-badge&logo=people" />
   </a>
-  <a href="https://www.youtube.com/watch?v=N8M5NOt8xIc" style="margin:8px; display:inline-block;">
-    <img src="https://img.shields.io/badge/▶️_YouTube_Video-FF0000?style=for-the-badge" alt="YouTube badge"><br>
+  <a href="https://yuri-spizhovyi-mit.github.io/flow/">
+    <img alt="Flowchart"
+         src="https://img.shields.io/badge/-FLOWCHART-64748B?style=for-the-badge&logo=project" />
   </a>
-    <a href="https://whatsapp.com/channel/0029Vb6RfkN1noz5w4DXur0x" style="margin:8px; display:inline-block;">
-    <img src="https://img.shields.io/badge/💬_WhatsApp_Channel-25D366?style=for-the-badge" alt="WhatsApp badge"><br>
+
+  <br>
+
+  <!-- Row 4 (4) -->
+  <a href="https://www.youtube.com/watch?v=N8M5NOt8xIc">
+    <img alt="YouTube Video 1"
+         src="https://img.shields.io/badge/-YOUTUBE%20VIDEO-EF4444?style=for-the-badge&logo=youtube" />
   </a>
-  <a href="https://www.youtube.com/watch?v=bY0B2EQhnVM" style="margin:8px; display:inline-block;">
-    <img src="https://img.shields.io/badge/▶️_YouTube_Video-FF0000?style=for-the-badge" alt="YouTube badge"><br>
+  <a href="https://whatsapp.com/channel/0029Vb6RfkN1noz5w4DXur0x">
+    <img alt="WhatsApp Channel"
+         src="https://img.shields.io/badge/-WHATSAPP%20CHANNEL-10B981?style=for-the-badge&logo=whatsapp" />
   </a>
-<a href="https://yuri-spizhovyi-mit.github.io/flow/" style="margin:8px; display:inline-block;">
-    <img src="https://img.shields.io/badge/🔀_Flowchart-2196F3?style=for-the-badge" alt="Flowchart badge"><br>
+  <a href="https://www.youtube.com/watch?v=bY0B2EQhnVM">
+    <img alt="YouTube Video 2"
+         src="https://img.shields.io/badge/-YOUTUBE%20VIDEO-EF4444?style=for-the-badge&logo=youtube" />
   </a>
-  <a href="https://www.instagram.com/p/DNNBhbguRMo/?utm_source=ig_web_copy_link" style="margin:8px; display:inline-block;">
-    <img src="https://img.shields.io/badge/📲_Instagram_Carousel-E4405F?style=for-the-badge" alt="Instagram badge"><br>
+  <a href="https://www.instagram.com/p/DNNBhbguRMo/?utm_source=ig_web_copy_link">
+    <img alt="Instagram Carousel"
+         src="https://img.shields.io/badge/-INSTAGRAM%20CAROUSEL-10B981?style=for-the-badge&logo=instagram" />
   </a>
-</p>
+
+</div>
 
 ---
 
