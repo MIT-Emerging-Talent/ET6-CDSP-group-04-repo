@@ -15,6 +15,8 @@
 
 ## 🚀 Quick Access
 
+<!-- markdownlint-disable MD033 -->
+
 <div align="center">
 
   <!-- Row 1 (1) -->
@@ -73,6 +75,7 @@
 
 </div>
 
+<!-- markdownlint-enable MD033 -->
 ---
 
 ## 🎯 Project Overview
@@ -97,7 +100,7 @@ emphasizing collaborative problem‑solving, careful analysis, and clear communi
 | <img src="https://img.shields.io/badge/🏢_Employer_Perceptions-red" alt="Employer Perceptions" /> | Employer expectations, skills, & bias | Olubusayo Solola & Nelson Fodjo |
 
 ---
-<!-- markdownlint-disable MD013 MD033 -->
+<!-- markdownlint-disable MD013 -->
 
 ## 📋 Project Milestones
 
@@ -171,7 +174,7 @@ emphasizing collaborative problem‑solving, careful analysis, and clear communi
 
 </details>
 
-<!-- markdownlint-enable MD013 MD033 -->
+<!-- markdownlint-enable MD013 -->
 
 ## 🌟 Key Finding
 
