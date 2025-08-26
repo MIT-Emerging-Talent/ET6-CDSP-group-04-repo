@@ -103,70 +103,70 @@ emphasizing collaborative problem‑solving, careful analysis, and clear communi
 <details>
   <summary>➕ M0 — Cross-Cultural Collaboration</summary>
 
-- [Retrospective](collaboration/retrospectives/0_cross_cultural_collaboration.md)  
-- [Meeting Minutes & Agendas](collaboration/meeting_minutes_and_agendas/)  
-- [Group Norms](collaboration/guide/1_group_norms.md)  
-- [Learning Goals](collaboration/guide/2_learning_goals.md)  
-- [Constraints](collaboration/guide/3_constraints.md)  
-- [Communication](collaboration/guide/4_communication.md)
+- <a href="collaboration/retrospectives/0_cross_cultural_collaboration.md" target="_blank" rel="noopener noreferrer">Retrospective</a>  
+- <a href="collaboration/meeting_minutes_and_agendas/" target="_blank" rel="noopener noreferrer">Meeting Minutes &amp; Agendas</a>  
+- <a href="collaboration/guide/1_group_norms.md" target="_blank" rel="noopener noreferrer">Group Norms</a>  
+- <a href="collaboration/guide/2_learning_goals.md" target="_blank" rel="noopener noreferrer">Learning Goals</a>  
+- <a href="collaboration/guide/3_constraints.md" target="_blank" rel="noopener noreferrer">Constraints</a>  
+- <a href="collaboration/guide/4_communication.md" target="_blank" rel="noopener noreferrer">Communication</a>
 
 </details>
 
 <details>
   <summary>➕ M1 — Problem Identification</summary>
 
-- [Domain Study Introduction](0_domain_study/01_introduction.md)  
-- [Domain Study Guide](0_domain_study/guide.md)  
-- [Domain Study README](0_domain_study/README.md)  
-- [Retrospective](collaboration/retrospectives/1_problem_identification.md)
+- <a href="0_domain_study/01_introduction.md" target="_blank" rel="noopener noreferrer">Domain Study Introduction</a>  
+- <a href="0_domain_study/guide.md" target="_blank" rel="noopener noreferrer">Domain Study Guide</a>  
+- <a href="0_domain_study/README.md" target="_blank" rel="noopener noreferrer">Domain Study README</a>  
+- <a href="collaboration/retrospectives/1_problem_identification.md" target="_blank" rel="noopener noreferrer">Retrospective</a>
 
 </details>
 
 <details>
   <summary>➕ M2 — Data Collection</summary>
 
-- [Data Description](1_datasets/data_description.md)  
-- [Datasets README](1_datasets/README.md)  
-- [Guide](1_datasets/guide.md)  
-- [Cleaned Data](1_datasets/cleaned_data/)  
-- [Raw Data](1_datasets/raw_data/)  
-- [Retrospective](collaboration/retrospectives/2_data_collection.md)
+- <a href="1_datasets/data_description.md" target="_blank" rel="noopener noreferrer">Data Description</a>  
+- <a href="1_datasets/README.md" target="_blank" rel="noopener noreferrer">Datasets README</a>  
+- <a href="1_datasets/guide.md" target="_blank" rel="noopener noreferrer">Guide</a>  
+- <a href="1_datasets/cleaned_data/" target="_blank" rel="noopener noreferrer">Cleaned Data</a>  
+- <a href="1_datasets/raw_data/" target="_blank" rel="noopener noreferrer">Raw Data</a>  
+- <a href="collaboration/retrospectives/2_data_collection.md" target="_blank" rel="noopener noreferrer">Retrospective</a>
 
 </details>
 
 <details>
   <summary>➕ M3 — Data Analysis</summary>
 
-- [Analysis Guide](4_data_analysis/guide.md)  
-- [Analysis README](4_data_analysis/README.md)  
-- [SQ1 — Barriers & Demographics](4_data_analysis/SQ1_Barriers_and_Demographics_Analysis.ipynb)  
-- [SQ2 — Entry-Level IT Opportunities](4_data_analysis/SQ2_EntryLevel_IT_Opportunities_Analysis.ipynb)  
-- [SQ3 — Education Models & Accessibility](4_data_analysis/SQ3_Education_Models_and_Accessibility_analysis.ipynb)  
-- [SQ4 — Employment Outcomes by Pathway](4_data_analysis/SQ4_Employment_Outcomes_By_Education_Pathway_Analysis.ipynb)  
-- [SQ5 — Employer Perceptions & Success Factors](4_data_analysis/SQ5_Employer_Perceptions_and_Success_Factors_Factor.ipynb)  
-- [Retrospective](collaboration/retrospectives/3_data_analysis.md)
+- <a href="4_data_analysis/guide.md" target="_blank" rel="noopener noreferrer">Analysis Guide</a>  
+- <a href="4_data_analysis/README.md" target="_blank" rel="noopener noreferrer">Analysis README</a>  
+- <a href="4_data_analysis/SQ1_Barriers_and_Demographics_Analysis.ipynb" target="_blank" rel="noopener noreferrer">SQ1 — Barriers &amp; Demographics</a>  
+- <a href="4_data_analysis/SQ2_EntryLevel_IT_Opportunities_Analysis.ipynb" target="_blank" rel="noopener noreferrer">SQ2 — Entry-Level IT Opportunities</a>  
+- <a href="4_data_analysis/SQ3_Education_Models_and_Accessibility_analysis.ipynb" target="_blank" rel="noopener noreferrer">SQ3 — Education Models &amp; Accessibility</a>  
+- <a href="4_data_analysis/SQ4_Employment_Outcomes_By_Education_Pathway_Analysis.ipynb" target="_blank" rel="noopener noreferrer">SQ4 — Employment Outcomes by Pathway</a>  
+- <a href="4_data_analysis/SQ5_Employer_Perceptions_and_Success_Factors_Factor.ipynb" target="_blank" rel="noopener noreferrer">SQ5 — Employer Perceptions &amp; Success Factors</a>  
+- <a href="collaboration/retrospectives/3_data_analysis.md" target="_blank" rel="noopener noreferrer">Retrospective</a>
 
 </details>
 
 <details>
   <summary>➕ M4 — Communicating Results</summary>
 
-- [Communication Strategy README](5_communication_strategy/README.md)  
-- [Essay](5_communication_strategy/IT_Career_Pathways_Essay.pdf)  
-- [Group 23 Review](5_communication_strategy/Group_23_review.pdf)  
-- [Web Page Prototype](5_communication_strategy/web_page/index.html)  
-- [Website Landing Page](5_communication_strategy/website/index.html)  
-- [Guide](5_communication_strategy/guide.md)  
-- [Retrospective](collaboration/retrospectives/4_communicating_results.md)
+- <a href="5_communication_strategy/README.md" target="_blank" rel="noopener noreferrer">Communication Strategy README</a>  
+- <a href="5_communication_strategy/IT_Career_Pathways_Essay.pdf" target="_blank" rel="noopener noreferrer">Essay</a>  
+- <a href="5_communication_strategy/Group_23_review.pdf" target="_blank" rel="noopener noreferrer">Group 23 Review</a>  
+- <a href="5_communication_strategy/web_page/index.html" target="_blank" rel="noopener noreferrer">Web Page Prototype</a>  
+- <a href="5_communication_strategy/website/index.html" target="_blank" rel="noopener noreferrer">Website Landing Page</a>  
+- <a href="5_communication_strategy/guide.md" target="_blank" rel="noopener noreferrer">Guide</a>  
+- <a href="collaboration/retrospectives/4_communicating_results.md" target="_blank" rel="noopener noreferrer">Retrospective</a>
 
 </details>
 
 <details>
   <summary>➕ M5 — Final Presentation</summary>
 
-- [Final Presentation README](6_final_presentation/README.md)  
-- [Guide](6_final_presentation/guide.md)  
-- [Retrospective](collaboration/retrospectives/5_final_presentation.md)
+- <a href="6_final_presentation/README.md" target="_blank" rel="noopener noreferrer">Final Presentation README</a>  
+- <a href="6_final_presentation/guide.md" target="_blank" rel="noopener noreferrer">Guide</a>  
+- <a href="collaboration/retrospectives/5_final_presentation.md" target="_blank" rel="noopener noreferrer">Retrospective</a>
 
 </details>
 
