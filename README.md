@@ -41,12 +41,12 @@
 
   <!-- Row 3 (3) -->
   <a href="5_communication_strategy/Group_23_review.pdf" target="_blank" rel="noopener noreferrer">
-    <img alt="Peer Review"
-         src="https://img.shields.io/badge/-PEER%20REVIEW-2563EB?style=for-the-badge&logo=chart-bar" />
+    <img alt="Peer Review Group 23"
+         src="https://img.shields.io/badge/-PEER%20REVIEW%2023-2563EB?style=for-the-badge&logo=chart-bar" />
   </a>
-  <a href="5_communication_strategy/Group_23_review.pdf" target="_blank" rel="noopener noreferrer">
-    <img alt="Peer Review"
-         src="https://img.shields.io/badge/-PEER%20REVIEW-10B981?style=for-the-badge&logo=people" />
+  <a href="5_communication_strategy/Group_11_Review.pdf" target="_blank" rel="noopener noreferrer">
+    <img alt="Peer Review Group 11"
+         src="https://img.shields.io/badge/-PEER%20REVIEW%2011-10B981?style=for-the-badge&logo=people" />
   </a>
   <a href="https://yuri-spizhovyi-mit.github.io/flow/" target="_blank" rel="noopener noreferrer">
     <img alt="Flowchart"
